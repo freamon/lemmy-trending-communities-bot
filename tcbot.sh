@@ -235,6 +235,17 @@ do
         display=$(( ${display}+1 ))
         if [ ${display} -eq 50 ]; then break; fi
     done
+
+    # Add any missing Communities from yesterday onto today's data file
+    # Pros: If any Communities happen to get missed by the crawler (currently, everything from lemmy.world), they don't disappear from history
+    # Cons: Deleted Communities will stay forever
+    diff <(awk '{print $2}' ${data1} | sort) <(awk '{print $2}' ${data0} | sort) | 
+    grep '^<' | sed 's/< //' | 
+    while read comm
+    do 
+        grep "\s${comm}\s" ${data1} | awk '{$1="0.00"; print}' >> ${data0}
+    done
+    
     cd ${SCRIPT_DIR}/${MODE}
     
     sort -rn -o /tmp/results_${VIEW}.txt /tmp/results_${VIEW}.txt
