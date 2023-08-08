@@ -77,7 +77,7 @@ ___posts: .counts.posts
 EOF
 )
 
-jq ".[] | {$fields}" ${SCRIPT_DIR}/REAL/json_lemmy/${JSON}.json > /tmp/stripped.json
+jq ".[] | {$fields}" ${SCRIPT_DIR}/REAL/jsons/${JSON}.json > /tmp/stripped.json
 
 # jq can get this data more eloquently, but it's slower and titles need sanitising for backslashes anyway
 grep '\"___nsfw\":' /tmp/stripped.json | sed 's/"___nsfw": //;s/,//' > /tmp/nsfw.txt                                  # true/false
@@ -277,10 +277,10 @@ do
         if [ $? -ne 0 ]
         then
             echo $community >> mentions.txt     												
-			new_entries="$new_entries\n\n""[${title}](/c/${community})${baseurl}, up ${growth}% to $subs, (${posts} posts, ${new_posts} recent)"
+            new_entries="$new_entries\n\n""[${title}](/c/${community})${baseurl}, up ${growth}% to $subs, (${posts} posts, ${new_posts} recent)"
         else
-	 		old_entries="$old_entries""[$title](/c/$community)${baseurl}, up $growth% to $subs, (${posts} posts, ${new_posts} recent)    \n"
-		fi
+            old_entries="$old_entries""[$title](/c/$community)${baseurl}, up $growth% to $subs, (${posts} posts, ${new_posts} recent)    \n"
+        fi
     done < /tmp/results_${VIEW}.txt
 	
     body="$new_entries\n\n${old_entries}\nResults are averaged over the past 7 days" 
@@ -295,7 +295,7 @@ do
            03|23)    echo "rd";;
             *)       echo "th";;
         esac
-        }
+    }
     today=$(date "+%A %e`DaySuffix` %B %Y")
     if [ "${VIEW}" == "NSFW" ]; then edition=" (NSFW edition)"; else edition=""; fi
     name="Trending Communities for ${today}${edition}"

@@ -3,7 +3,7 @@ BASH scripts for posting trending Communities on Lemmy
 
 ## usage
 `./get_latest_jsons.sh`
-will get new JSON files for Lemmy and KBIN if they're available
+will get new JSON files for Lemmy if they're available
 
 `./tcbot TEST (JSON-TIMESTAMP) 0` 
 

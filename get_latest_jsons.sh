@@ -6,18 +6,11 @@ latest=$(jq .time /tmp/lv_meta.json)
 
 if [[ $? -eq 0 && "${latest}" != "null" ]]
 then
-    if [ ! -f REAL/json_lemmy/${latest}.json ]
+    if [ ! -f REAL/jsons/${latest}.json ]
     then
-        curl -L -o REAL/json_lemmy/${latest}.json https://data.lemmyverse.net/data/community.full.json
+        curl -L -o REAL/jsons/${latest}.json https://data.lemmyverse.net/data/community.full.json
     else
         echo "Already have latest JSON for Lemmy Communities"
-    fi
-
-    if [ ! -f REAL/json_kbin/${latest}.json ]
-    then
-        curl -L -o REAL/json_kbin/${latest}.json https://data.lemmyverse.net/data/magazines.full.json
-    else
-        echo "Already have latest JSON for KBIN Magazines"
     fi
 else
 	echo "Error downloading from lemmyverse.net"

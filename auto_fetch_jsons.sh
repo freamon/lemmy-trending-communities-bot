@@ -24,17 +24,13 @@ do
 
     if [[ $? -eq 0 && "${latest}" != "null" ]]
     then
-	    if [ ! -f REAL/json_lemmy/${latest}.json ]
-  	    then
-    	    curl -L -o REAL/json_lemmy/${latest}.json https://data.lemmyverse.net/data/community.full.json
+        if [ ! -f REAL/jsons/${latest}.json ]
+        then
+            curl -L -o REAL/jsons/${latest}.json https://data.lemmyverse.net/data/community.full.json
             ${SCRIPT_DIR}/tcbot.sh ${MODE} ${latest} 0 LOOP
             sleep_period=6h
         else
             sleep_period=61m
-        fi
-        if [ ! -f REAL/json_kbin/${latest}.json ]
-        then
-            curl -L -o REAL/json_kbin/${latest}.json https://data.lemmyverse.net/data/magazines.full.json
         fi
     fi
 done
