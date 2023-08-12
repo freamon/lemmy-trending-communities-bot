@@ -6776,3 +6776,1944 @@
 0.00 zztestlemmy000@lemm.ee 48 41 zzTesting Lemmy moderation - please ignore
 0.00 zzz@lemmy.blahaj.zone 106 12 zzz
 0.05 zzztestcommunity1@ds9.lemmy.ml 19 3 ZZZ Test Community 1
+0.00 1200isplenty@lemmy.world 78 5 1200isplenty
+0.00 13or30@lemmy.world 55 8 13or30
+0.00 1967@lemmy.world 33 7 1967
+0.00 2000snostalgia@lemmy.world 1281 65 2000snostalgia
+0.00 207@lemmy.world 65 27 207 Maine
+0.00 21stcenturyhumour@lemmy.world 50 4 21stCenturyHumour
+0.00 2600@lemmy.world 405 14 2600: Hacker Quarterly
+0.00 2american4you@lemmy.world 24 3 2american4you
+0.00 2middleeast4you@lemmy.world 47 6 2middleeast4you
+0.00 3dprintedgaming@lemmy.world 194 19 3D-printed Gaming
+0.00 3ds@lemmy.world 1604 42 Nintendo 3DS, 2DS and DS
+0.00 3dsthemes@lemmy.world 26 9 3DS Themes. Sharing the best and most obscure ones.
+0.00 40klore@lemmy.world 139 9 40kLore
+0.00 49a0cc3e@lemmy.world 30 26 bot sandbox
+0.00 49ers@lemmy.world 231 18 San Francisco 49ers
+0.00 52weeksofbaking@lemmy.world 101 9 52 Weeks of Baking
+0.00 5555555@lemmy.world 58 10 More 5s
+0.00 7dtd@lemmy.world 99 17 7 Days to Die: Survival Horde Crafting Game
+0.00 80smusic@lemmy.world 307 47 80's Music
+0.00 88x31@lemmy.world 33 3 88x31
+0.00 90sfilms@lemmy.world 25 3 90s films
+0.00 90smusic@lemmy.world 681 97 90's Music
+0.00 a11y@lemmy.world 66 9 a11y
+0.00 a24@lemmy.world 81 7 A24
+0.00 abq@lemmy.world 95 25 Albuquerque, NM
+0.00 absoluteunit@lemmy.world 163 4 Absolute Unit
+0.00 academicbiblical@lemmy.world 43 8 AcademicBiblical
+0.00 accidentalracism@lemmy.world 103 3 Accidental Racism
+0.00 aceattorney@lemmy.world 147 13 Ace Attorney
+0.00 acecombat@lemmy.world 55 3 Ace Combat
+0.00 acid@lemmy.world 55 3 Acid
+0.00 acid_techno@lemmy.world 126 20 Acid Techno
+0.00 acmilan@lemmy.world 46 13 AC Milan
+0.00 acnh@lemmy.world 422 22 Animal Crossing New Horizons
+0.00 aco@lemmy.world 57 6 WEC, ELMS &AsLMS
+0.00 actionfigures@lemmy.world 117 26 ActionFigures
+0.00 activism@lemmy.world 37 12 activism
+0.00 actualite@lemmy.world 136 89 Actualité - Le Fil d'Information Francophone
+0.00 adguardhome@lemmy.world 90 6 AdGuardHome
+0.00 adguard@lemmy.world 49 3 AdGuard
+0.00 adhdmemes@lemmy.world 436 19 ADHDmemes
+0.00 adultswim@lemmy.world 117 17 [Adult Swim]
+0.00 aewofficial@lemmy.world 163 53 AEWOfficial
+0.00 afcm_lacuisine@lemmy.world 54 33 afcm_lacuisine
+0.00 afkarena@lemmy.world 44 16 AFK Arena
+0.00 afl@lemmy.world 114 57 AFL
+0.00 afrobeats@lemmy.world 59 28 Afrobeats
+0.00 agilob@lemmy.world 22 15 agilob
+0.00 ahmedabad@lemmy.world 31 3 Ahmedabad
+0.00 aiart@lemmy.world 102 6 Ai Dreamscape
+0.00 aicompanions@lemmy.world 224 168 AI Companions
+0.00 ai_@lemmy.world 646 179 Artificial Intelligence
+0.00 aipics@lemmy.world 58 3 AI Pics
+0.00 airforce@lemmy.world 64 4 Air Force
+0.00 airsoft@lemmy.world 108 12 Airsoft
+0.00 ai_videos@lemmy.world 55 20 AI Videos
+0.00 albany@lemmy.world 109 20 Albany NY
+0.00 alberta@lemmy.world 52 7 Alberta
+0.00 albums@lemmy.world 150 16 Albums
+0.00 alcoholicbuddhists@lemmy.world 44 4 Alcoholic Buddhists
+0.00 allaboutfantasymedia@lemmy.world 180 6 AllAboutFantasyMedia
+0.00 allsvenskan@lemmy.world 35 3 Allsvenskan
+0.00 alpinelinux@lemmy.world 46 3 Alpine Linux
+0.00 altcountry@lemmy.world 27 4 Alt-Country Music
+0.00 alternatehistory@lemmy.world 91 4 Alternate History
+0.00 alternateuniverse@lemmy.world 188 10 In An Alternate Universe...
+0.00 alternativenation@lemmy.world 1736 608 Alternative Nation: The Fediverse's Alternative and Indie Music Community
+0.00 americandad@lemmy.world 74 3 American Dad
+0.00 amigurumi@lemmy.world 138 18 Amigurumi
+0.00 amoledbackgrounds@lemmy.world 1260 155 AmoledBackgrounds
+0.00 anaheim_ducks@lemmy.world 56 7 Anaheim Ducks
+0.00 anal@lemmy.world 135 5 Anal
+0.00 analog@lemmy.world 1282 111 Film Photography
+0.00 analogueinc@lemmy.world 83 5 Analogue Community
+0.00 analogue_pocket@lemmy.world 136 8 Analogue Pocket
+0.00 anarchychessdevelopers@lemmy.world 28 8 AnarchyChessDevelopers
+0.00 ancientcoincleaning@lemmy.world 71 11 Ancient Coin Cleaning
+0.00 ancienthistory@lemmy.world 80 7 ancient history
+0.00 ancientvideos@lemmy.world 156 12 Ancient History Videos
+0.00 andalucia@lemmy.world 38 5 Andalucía
+0.00 android@chat.maiion.com 109 91 c/Android
+0.00 androidthemes@lemmy.world 340 9 AndroidThemes
+0.00 anime_irl@lemmy.world 82 3 Anime in Real Life
+0.00 animememes@lemmy.world 59 3 Anime Memes
+0.00 animism@lemmy.world 76 27 New Animism
+0.00 annarbor@lemmy.world 133 38 Ann Arbor
+0.00 ansible@lemmy.world 160 3 Ansible
+0.00 antinatalism@lemmy.world 141 9 Antinatalism
+0.00 antiquememesroadshow@lemmy.world 3492 380 Antique Memes Roadshow
+0.00 antiques@lemmy.world 59 3 Antiques
+0.00 antiusury@lemmy.world 39 4 AntiUsury
+0.00 antiwork_@lemmy.world 327 13 Antiwork/Work Reform
+0.00 ants@lemmy.world 69 5 Ants
+0.00 anything@lemmy.world 42 16 anything or tests
+0.00 aphantasia@lemmy.world 153 11 Aphantasia 💭
+0.00 aphextwin@lemmy.world 84 14 Aphex Twin
+0.00 appalachia@lemmy.world 77 6 Appalachia
+0.00 applebetas@lemmy.world 91 6 Apple Betas
+0.00 apple_enthusiast@lemmy.world 13642 317 Apple
+0.00 applegaming@lemmy.world 155 29 Apple Gaming
+0.00 applemaps@lemmy.world 175 5 Apple Maps
+0.00 appletv@lemmy.world 843 18 Apple TV
+0.00 applevisionpro@lemmy.world 93 8 Apple Vision Pro
+0.00 applewatch@lemmy.world 717 11 Apple Watch
+0.00 aquariums@lemmy.world 584 31 Aquariums and Fish Keeping
+0.00 ar15@lemmy.world 113 5 AR15
+0.00 arcadesticks@lemmy.world 69 4 Arcade Sticks/Fightsticks Community
+0.00 arcbrowser@lemmy.world 83 5 Arc Browser
+0.00 archaeology@lemmy.world 55 22 Archaeology
+0.00 architecture@lemmy.world 210 8 Architecture
+0.00 arcticautism@lemmy.world 107 16 Arctic Autism
+0.00 arkansas@lemmy.world 84 25 Arkansas
+0.00 army@lemmy.world 57 4 Army
+0.00 arrowheads@lemmy.world 55 8 Arrowheads
+0.00 artbykids@lemmy.world 90 16 Art by Kids
+0.00 artemistesting@lemmy.world 46 38 Testing For AretemisApp
+0.00 artifact@lemmy.world 193 17 artifacts
+0.00 artificialintelligence@lemmy.world 8 5 A.I.
+0.00 artisan@lemmy.world 152 40 Artisan Videos
+0.00 art@lemmy.world 479 41 art
+0.00 aryatest@lemmy.world 39 9 Arya's Test Community :)
+0.00 asexual@lemmy.world 647 37 Asexual
+0.00 asexualmen@lemmy.world 53 3 AsexualMen
+0.00 askarussian@lemmy.world 141 5 Ask A Russian
+0.00 askbiologists@lemmy.world 444 13 Ask Biologists 🙋👨‍🔬 🧬
+0.00 askdad@lemmy.world 502 7 Ask Dad
+0.00 askgaybrosover30@lemmy.world 109 8 AskGaybrosOver30
+0.00 askgaymen@lemmy.world 90 3 Ask Gay Men
+0.00 asklw@lemmy.world 218 6 Ask Lemmy World
+0.00 askwomennobullshit@exploding-heads.com 8 7 Ask Women No Bullshit
+0.00 asoiaf@lemmy.world 369 20 A Song Of Ice And Fire
+0.00 asoziales_netzwerk@lemmy.world 53 4 AsozialesNetzwerk
+0.00 assassinscreed@lemmy.world 117 9 Assassin’s Creed
+0.00 assettocorsa@lemmy.world 73 10 Assetto Corsa
+0.00 astonvilla@lemmy.world 55 30 AVFC
+0.00 astralprojection@lemmy.world 96 4 Astral Projection
+0.00 astramilitarum@lemmy.world 61 9 Astra Militarum
+0.00 astronomy@lemmy.world 369 11 Astronomy
+0.00 astrophotography@lemmy.world 707 21 Astrophotography
+0.00 atelier@lemmy.world 49 3 Atelier
+0.00 atlantahawks@lemmy.world 44 4 AtlantaHawks
+0.00 audiobooks@lemmy.world 280 7 Audiobooks
+0.00 audioelectronics@lemmy.world 69 4 Audio Electronics
+0.00 audiophile@lemmy.world 190 3 audiophile
+0.00 austinfc@lemmy.world 78 18 Austin FC
+0.00 austin@lemmy.world 760 119 Austin Texas Community
+0.00 australia@lemmy.world 362 11 Australia
+0.00 autism@lemmy.world 4220 247 Autism
+0.00 autisticandadhd@lemmy.world 460 27 AuDHD
+0.00 avatar@lemmy.world 478 7 Avatar: The Last Airbender
+0.00 averagebattlestations@lemmy.world 31 3 Average Battlestations
+0.00 avtech@lemmy.world 95 4 AV Tech
+0.00 awardtravel@lemmy.world 65 5 Award Travel
+0.00 awesomewm@lemmy.world 64 3 AwesomeWM
+0.00 awwnime@lemmy.world 83 11 awwnime
+0.00 ayaneo@lemmy.world 44 6 ayaneo
+0.00 azguns@lemmy.world 43 3 Arizona Guns
+0.00 babymetal@lemmy.world 53 14 BABYMETAL
+0.00 backup@lemmy.world 55 4 Backup
+0.00 bacon_reader@lemmy.world 59 3 Baconreader
+0.00 badmovies@lemmy.world 473 25 Bad Movies
+0.00 bahai@lemmy.world 32 4 Bahá’í Faith
+0.00 bakersfield@lemmy.world 32 4 Bakersfield, CA
+0.00 balearic@lemmy.world 25 3 Balearic
+0.00 baltimore@lemmy.world 114 3 🦀 BALTIMORE 🦀
+0.00 bambulab@lemmy.world 66 16 BambuLab (unofficial)
+0.00 bandnames@lemmy.world 202 73 Band Names
+0.00 bangalore@lemmy.world 83 50 Namma Bengaluru / Our Bangalore
+0.00 banhammered@lemmy.world 58 4 Ban-Hammered
+0.00 banvideogames@lemmy.world 138 8 BanVideoGames
+0.00 barefoot_shoes@lemmy.world 149 8 Barefoot Shoes
+0.00 barrie@lemmy.world 51 6 Barrie
+0.00 baseball@lemmy.world 477 25 baseball
+0.00 bassethound@lemmy.world 48 3 Basset Hound
+0.00 bassmusic@lemmy.world 52 6 Bass Music
+0.00 battlebitremastered@lemmy.world 453 32 BattleBitRemastered
+0.00 battlebots@lemmy.world 159 7 Battlebots
+0.00 battlefield1@lemmy.world 41 6 Battlefield 1
+0.00 battlefield_2042@lemmy.world 65 9 Battlefield 2042
+0.00 battlepaintings@lemmy.world 46 4 Battlepaintings
+0.00 battletech@lemmy.world 381 49 Battletech
+0.00 bayarea@lemmy.world 1020 104 Bay Area
+0.00 bayonetta@lemmy.world 58 10 Bayonetta
+0.00 beamng@lemmy.world 87 6 BeamNG
+0.00 bearapp@lemmy.world 149 34 Bear Notes
+0.00 bearsarecute@lemmy.world 38 3 Bears are Cute
+0.00 beaverton@lemmy.world 46 3 beaverton
+0.00 beebutts@lemmy.world 308 31 BeeButts
+0.00 beekeeping@lemmy.world 316 29 Beekeeping and Bees
+0.00 beer@lemmy.world 209 27 Beer
+0.00 beerwithaview@lemmy.world 147 14 Beer With a View
+0.00 belgique@lemmy.world 74 36 Belgique
+0.00 belgium@lemmy.world 606 66 Belgium
+0.00 bemesmerized@lemmy.world 16 3 Be Mesmerized
+0.00 bengals@lemmy.world 134 19 Cincinnati Bengals
+0.00 bereavement_tips@lemmy.world 31 18 BereavementTips
+0.00 berserk@lemmy.world 110 8 Berserk
+0.00 bertstrips@lemmy.world 62 4 bertstrips
+0.00 bestofuserupdates@lemmy.world 141 5 Best of User Updates
+0.00 beyond@lemmy.world 59 5 Beyond app
+0.00 bibleillustrations@lemmy.world 38 15 Bible illustrations
+0.00 bible@lemmy.world 44 22 Bible
+0.00 biblicalstudies@lemmy.world 103 7 Biblical Studies
+0.00 bicycle_touring@lemmy.world 102 11 Bicycle Touring
+0.00 bidoof@lemmy.world 44 5 bidoof
+0.00 big3@lemmy.world 5 3 big3
+0.00 bij1@lemmy.world 36 5 BIJ1
+0.00 bikecommuting@lemmy.world 327 12 bikecommuting
+0.00 bikepacking@lemmy.world 163 6 bikepacking
+0.00 bikinibottomtwitter@lemmy.world 1670 114 Bikini Bottom Twitter
+0.00 bills@lemmy.world 163 14 Buffalo Bills
+0.00 bioniclelego@lemmy.world 72 8 Bionicle
+0.00 bioniclememes@lemmy.world 82 21 Bionicle Memes
+0.00 biora@lemmy.world 36 10 Biora Therapeutics
+0.00 birmingham@lemmy.world 64 4 Birmingham, AL
+0.00 bisexualagenda@lemmy.world 51 4 Bisexual Agenda
+0.00 bisexual@lemmy.world 1036 32 Bisexual
+0.00 bjj@lemmy.world 231 39 BJJ
+0.00 blackdesert@lemmy.world 52 3 Black Desert
+0.00 blackdesertonline@lemmy.world 51 13 Black Desert Online
+0.00 blackhawks@lemmy.world 100 9 Chicago Blackhawks
+0.00 bladerunner@lemmy.world 199 6 Blade Runner
+0.00 blender@lemmy.world 1754 39 Blender
+0.00 blendos@lemmy.world 16 3 blendOS
+0.00 bletheringskite@lemmy.world 33 32 Blethering Skite
+0.00 blockchain@lemmy.world 71 6 Blockchain Technology
+0.00 blockchainvoting@lemmy.world 63 4 Blockchain Voting
+0.00 blockedandreported@lemmy.world 36 4 Blocked and Reported
+0.00 blommor@lemmy.world 59 7 Blommor
+0.00 bloodbowl@lemmy.world 36 8 Blood Bowl
+0.00 bluegrass@lemmy.world 129 21 Bluegrass
+0.00 bluejackets@lemmy.world 82 8 BlueJackets
+0.00 bluemix@lemmy.world 8 3 blueMix
+0.00 blur@lemmy.world 35 5 Blur
+0.00 blurryphotos@lemmy.world 64 17 Blurry Photos
+0.00 blurrypicturesofcats@lemmy.world 741 58 Blurry Pictures of Cats
+0.00 blurrypicturesofdogs@lemmy.world 213 17 Blurry Pictures of Dogs/fotos borrosas de perros/Inu no boyaketa shashin/Canum blurry imaginibus
+0.00 blursed_images@lemmy.world 151 3 Blursed Images
+0.00 bmw@lemmy.world 198 13 BMW
+0.00 bmwmotorrad@lemmy.world 48 6 BMW Motorrad
+0.00 boardgames@lemmy.world 455 4 Boardgames
+0.00 bobiverse@lemmy.world 159 4 Bobiverse
+0.00 bobsburgers@lemmy.world 285 29 bobsburgers
+0.00 bodyweightfitness@lemmy.world 112 4 Bodyweight Fitness
+0.00 bogleheads@lemmy.world 119 4 Bogleheads
+0.00 boneappletea@lemmy.world 2675 51 Bone Apple Tea
+0.00 bonnebouffe@lemmy.world 97 10 BonneBouffe
+0.00 bonvoyage@lemmy.world 357 248 Bon Voyage
+0.00 boobies@lemmy.world 97 5 Boobies
+0.00 bookclub@lemmy.world 575 23 Bookclub
+0.00 boostforlemmy@lemmy.world 4415 33 Boost For Lemmy
+0.00 bose@lemmy.world 28 4 Bose
+0.00 bosnia@lemmy.world 52 3 Bosnia and Herzegovina
+0.00 boston@lemmy.world 797 48 Boston, MA
+0.00 botplayground@lemmy.world 40 9 Bot Playground
+0.00 bottest@feddit.nl 40 4 Bot Testing
+0.00 bot_testing_ground@lemmy.ca 4 3 Bot Testing Ground
+0.00 bot_testing@lemmy.world 30 14 Bot Testing
+0.00 bottom@lemmy.world 37 3 Bottom
+0.00 bouldering@lemmy.world 100 4 Bouldering
+0.00 bourbon@lemmy.world 151 8 Bourbon
+0.00 boutiquebluray@lemmy.world 73 16 Boutique Blu-ray
+0.00 bowlingalleyscreens@lemmy.world 41 3 Bowling Alley Screens
+0.00 bowling@lemmy.world 43 5 Bowling
+0.00 bpd@lemmy.world 78 9 BPD
+0.00 breadtube@lemmy.world 658 120 BreadTube
+0.00 breakingnews@lemmy.world 182 17 Breaking News
+0.00 bremerton@lemmy.world 45 4 Bremerton, WA
+0.00 brexit@lemmy.world 238 37 Brexit
+0.00 bricktrains@lemmy.world 90 5 Brick Trains: LEGO and more!
+0.00 bridgingthegap@rammy.site 36 4 Bridging the Gap
+0.00 britishshorthairs@lemmy.world 88 11 British Shorthairs
+0.00 broskis@lemmy.world 27 21 Just a bunch of broskis
+0.00 browns@lemmy.world 105 12 Browns
+0.00 bruins@lemmy.world 56 3 Boston Bruins
+0.00 bsl@lemmy.world 36 3 British Sign Language
+0.00 bsv@lemmy.world 30 4 BSV
+0.00 btd6@lemmy.world 89 40 Bloons TD 6
+0.00 buddhism@lemmy.world 371 29 Buddhism
+0.00 bugs@lemmy.world 186 23 bugs
+0.00 buildabear@lemmy.world 44 4 Build-A-Bear
+0.00 buildapc@lemmy.world 2353 50 Buildapc
+0.00 bulgariaeu@lemmy.world 49 4 Bulgaria - България
+0.00 bullish@lemmy.world 8 3 Bullish
+0.00 bundleofholding@lemmy.world 72 9 Bundle Of Holding
+0.00 bundles@lemmy.world 31 4 Were do I get a good bundle?
+0.00 bunnieswithhats@lemmy.world 106 10 Rabbits and Hats, what could be better?
+0.00 burnaby@lemmy.world 59 5 Burnaby, British Columbia, Canada
+0.00 buycanadian@lemmy.world 135 9 Buy Canadian
+0.00 byereddit@lemmy.world 216 10 Bye Reddit
+0.00 cableporn@lemmy.world 1497 73 CablePorn
+0.00 cade@lemmy.world 147 4 Arcade - MAME - Cabinets - JAMMA
+0.00 cakemusic@lemmy.world 40 7 CAKE
+0.00 calgaryents@lemmy.world 5 3 calgaryents
+0.00 calibre@lemmy.world 359 8 Calibre
+0.00 callofduty@lemmy.world 85 10 Call of Duty
+0.00 calvinandhobbes@lemmy.world 3155 237 Calvin and Hobbes
+0.00 campingandhiking@lemmy.world 103 3 camping and hiking
+0.00 canadahousing@lemmy.world 81 5 Canada Housing
+0.00 canada@lemmy.world 119 3 Canada
+0.00 canada_news@lemmy.world 134 14 Canadian News & Journalism
+0.00 canadianinvestor@lemmy.world 44 6 CanadianInvestor
+0.00 canadianplanes@lemmy.world 28 4 Canadian Planes
+0.00 cannabis_cultivation@lemmy.world 56 16 cannabis_cultivation
+0.00 canon@lemmy.world 60 3 Canon
+0.00 cantonese@lemmy.world 33 3 Cantonese
+0.00 caps@lemmy.world 77 14 Washington Capitals
+0.00 capybara@lemmy.world 199 16 Capybara
+0.00 cardanodevelopers@lemmy.world 44 7 Cardano Developers
+0.00 carnivore@lemmy.world 68 3 Carnivore
+0.00 carnivorousplants@lemmy.world 99 6 carnivorous_plants
+0.00 carp4lemmytests@lemmy.world 31 7 carp4lemmytests
+0.00 carporn@lemmy.world 102 4 Car Porn
+0.00 carros@lemmy.world 38 3 Carros
+0.00 cartalk@lemmy.world 250 17 car talk
+0.00 cartoongangsters@lemmy.world 84 43 Cartoon Gangsters
+0.00 castiron@lemmy.world 1229 36 Cast Iron
+0.00 casualconversation@lemmy.world 4400 64 Casual Conversation
+0.00 catastrophicfailure@lemmy.world 207 8 Catatrophic Failure
+0.00 catbean@lemmy.world 78 17 CatBeanBag
+0.00 catboys@lemmy.world 34 9 Catboys of Lemmy
+0.00 categoryiii@lemmy.world 35 9 Category III
+0.00 catholic@lemmy.world 51 3 Catholic
+0.00 catholique@lemmy.world 32 5 Catholique
+0.00 catloaf@lemmy.world 187 3 catloaf
+0.00 cats@lemmy.world 1160 48 cats
+0.00 catsnamedtoothless@lemmy.world 45 5 Cats Named Toothless
+0.00 catsstandingup@lemmy.world 744 26 catsstandingup
+0.00 cc_art@lemmy.world 108 8 Creative Commons Art
+0.00 cdmx@lemmy.world 46 3 Ciudad de México - Mexico City - CDMX
+0.00 cdtv@lemmy.world 45 7 Commodore CDTV
+0.00 cellmapper@lemmy.world 41 4 Cellmapper Unofficial Lemmy Community
+0.00 celticfc@lemmy.world 30 5 Glasgow Celtic FC
+0.00 censorshiptech@lemmy.world 67 3 Censorship Resistant Tech
+0.00 centrist@lemmy.world 71 13 Centrist and moderate politics
+0.00 cfbmemes@lemmy.world 23 11 College Football Memetics
+0.00 chainsawfolk@lemmy.world 126 119 Chainsawfolk
+0.00 chameleons@lemmy.world 48 4 Chameleons
+0.00 charlotte@lemmy.world 86 6 Charlotte
+0.00 chatgpt@lemmy.world 6837 134 ChatGPT
+0.00 chattanooga@lemmy.world 71 3 Chattanooga
+0.00 cheaphealthyfood@lemmy.world 605 11 CheapHealthyFood
+0.00 cheeseblintzes@lemmy.world 7 3 Cheeseblintzes/ Popcorn Chickn/ Rebecca Blaze
+0.00 chicago@lemmy.world 116 5 Anything/Anyone from Chicago IL
+0.00 chicanery@lemmy.world 85 11 Chicanery
+0.00 chickens@lemmy.world 197 11 Chickens!
+0.00 childfree@lemmy.world 1502 27 childfree
+0.00 chiptune@lemmy.world 216 21 Chiptune
+0.00 christiancartoons@lemmy.world 38 8 christian cartoons
+0.00 christianstuff@lemmy.world 54 51 christian stuff
+0.00 chronicpain@lemmy.world 182 27 chronicpain
+0.00 cia@lemmy.world 78 17 CIA
+0.00 cincinnati_reds@lemmy.world 117 31 Cincinnati Reds
+0.00 cinemajoy@lemmy.world 272 17 Cinema Joy
+0.00 cinemaportugues@lemmy.world 38 3 Cinema Português
+0.00 cinematography@lemmy.world 147 24 Cinematography
+0.00 cinephilecirclejerk@lemmy.world 82 11 Cinephile Circlejerk
+0.00 circlebroke@lemmy.world 52 3 circlebroke
+0.00 circlejerk@lemmy.world 205 11 circlejerk
+0.00 cities_skylines@lemmy.world 253 14 Cities: Skylines (1 & 2)
+0.00 citizen_sleeper@lemmy.world 32 4 Citizen Sleeper
+0.00 cityofchicago@lemmy.world 13 11 Chicago
+0.00 civilengineering@lemmy.world 93 13 Civil Engineering
+0.00 clacksmith@lemmy.world 220 12 Clacksmith
+0.00 clashofclans@lemmy.world 95 10 Clash of Clans
+0.00 clashroyale@lemmy.world 52 3 Clash Royale
+0.00 classicaleducation@lemmy.world 43 4 Classical Education
+0.00 classicalguitar@lemmy.world 56 3 Classical Guitar
+0.00 claudeai@lemmy.world 31 4 Anthropic's Claude AI
+0.00 clay@lemmy.world 33 4 clay
+0.00 cleveland@lemmy.world 169 13 All about Cleveland, Ohio
+0.00 climatechange@lemmy.world 77 4 Climate Change
+0.00 climatehope@lemmy.world 167 7 Climate Hope
+0.00 climatememes@lemmy.world 622 33 The memes of the climate
+0.00 cockatiel@lemmy.world 213 38 Cockatiels
+0.00 code_cathedrals@lemmy.world 102 4 well designed codebases
+0.00 codwarzone@lemmy.world 81 5 CODWarzone
+0.00 collapse@lemmy.world 63 8 Collapse
+0.00 collegebasketball@lemmy.world 166 66 NCAA Basketball
+0.00 college@lemmy.world 58 6 College
+0.00 colombia@lemmy.world 55 3 Colombia
+0.00 colorado@lemmy.world 932 242 Colorado
+0.00 coloradopolitics@lemmy.world 84 59 Colorado Politics
+0.00 coloradorapids@lemmy.world 10 5 Colorado Rapids
+0.00 colorpie@lemmy.world 36 3 MtG Color Pie
+0.00 combatsports@lemmy.world 33 3 Combat Sports
+0.00 comicstrips@lemmy.world 2137 80 Comic Strips
+0.00 communitydiscoveries@feddit.nl 177 20 Community Discoveries
+0.00 community@lemmy.world 57 3 Six Seasons and a Lemmy
+0.00 communityrequests@chat.maiion.com 53 10 c/CommunityRequests
+0.00 competitiveshooting@lemmy.world 73 3 Competitive Shooting
+0.00 concerts@lemmy.world 34 3 Concerts
+0.00 concertsph@lemmy.world 29 8 concertsPH
+0.00 connecticut@lemmy.world 228 17 Connecticut
+0.00 consciousness@lemmy.world 46 3 Consciousness
+0.00 conservative@lemmy.world 643 57 conservative
+0.00 consolerepair@lemmy.world 372 11 Console Repair
+0.00 conspiracy@lemmy.world 92 3 conspiracy
+0.00 conures@lemmy.world 68 9 Conures
+0.00 coolemmycommunities@lemmy.world 57 6 Cool Lemmy + Kbin Communities
+0.00 cooperatives@lemmy.world 235 9 Cooperatives
+0.00 copiepatesmarine@lemmy.world 31 7 CopiePatesMarine
+0.00 cosplay@lemmy.world 177 7 Cosplay
+0.00 costco@lemmy.world 2347 20 Costco
+0.00 cottagecore@lemmy.world 471 37 cottagecore
+0.00 cows@lemmy.world 33 3 Cows
+0.00 coys@lemmy.world 229 62 Spurs
+0.00 cozygames@lemmy.world 77 3 Cozy Games
+0.00 crappyanimalcrossing@lemmy.world 117 3 Crappy Animal Crossing
+0.00 crazyfuckingvideos@lemmy.world 3637 47 Crazy Fucking Videos
+0.00 creepypasta@lemmy.world 80 11 Creepypasta - Where scary things go bump in the night
+0.00 creepywikipedia@lemmy.world 1381 133 CreepyWikipedia
+0.00 cremposting@lemmy.world 90 4 cremposting
+0.00 cricket@lemmy.ca 51 6 Cricket
+0.00 cricket@lemmy.world 508 109 Cricket
+0.00 criterion@lemmy.world 97 12 The Criterion Collection
+0.00 criticalrole@lemmy.world 694 42 Critical Role
+0.00 croatia@lemmy.world 277 48 Croatia
+0.00 crpg@lemmy.world 156 14 Computer RPGs
+0.00 crtgaming@lemmy.world 294 17 CRT Gaming
+0.00 cs2@lemmy.world 92 13 Counter-Strike 2
+0.00 csrracing2@lemmy.world 35 6 CSRRacing2
+0.00 css@lemmy.world 54 8 CSS
+0.00 csusb@lemmy.world 36 32 California State University, San Bernardino
+0.00 cubase@lemmy.world 45 21 Cubase
+0.00 culinary@lemmy.world 469 13 Culinary Creations
+0.00 cult_of_thca@lemmy.world 201 21 Cult of THCa
+0.00 cursedcomments@lemmy.world 160 7 cursed comments
+0.00 customs_broker@lemmy.world 23 3 Customs_Broker - a place to discuss all things Customs Brokerage
+0.00 cutestrays@lemmy.world 94 5 Cute Stray Animals
+0.00 cyberdelia@lemmy.world 70 6 cyberdelia
+0.00 cybersecuritymemes@lemmy.world 541 19 Cybersecurity - Memes
+0.00 cycling@lemmy.world 185 6 cycling
+0.00 cyprus@lemmy.world 42 3 cyprus
+0.00 dachshund@lemmy.world 191 55 Dachshund
+0.00 dadsonly@lemmy.world 821 22 Dads Only
+0.00 dailydoseofcute@lemmy.world 321 43 Daily Dose of Cute
+0.00 dailypicture@lemmy.world 141 9 Daily Picture 📷
+0.00 dallasstars@lemmy.world 90 33 Dallas Stars
+0.00 dandadan@lemmy.world 38 9 Dandadan
+0.00 dankchristianmemes@lemmy.world 384 14 Dank Christian Memes
+0.00 daria@lemmy.world 128 10 Daria
+0.00 darkbrandon@lemmy.world 243 16 Dark BRANDON
+0.00 darkhumor@lemmy.world 346 7 Dark Humor
+0.00 dark_souls@lemmy.world 557 12 Darksouls world
+0.00 darkviperau@lemmy.world 36 5 DarkViperAU
+0.00 dartlang@lemmy.world 95 11 Dart Programming Language
+0.00 darts@lemmy.world 53 3 Darts
+0.00 dataengineering@lemmy.world 78 3 Data Engineering
+0.00 dataisbeautiful@lemmy.world 2711 9 Data is Beautiful
+0.00 dayz@lemmy.world 96 31 DayZ
+0.00 dbz@lemmy.world 63 5 Dragon Ball Z
+0.00 dcss@lemmy.world 156 9 Dungeon Crawl Stone Soup
+0.00 dcstudios@lemmy.world 110 6 DC Studios
+0.00 ddlc@lemmy.world 30 9 Doki Doki Literature Club
+0.00 deadmalls@lemmy.world 188 4 Dead Malls
+0.00 death_metal@lemmy.world 497 92 Death Metal
+0.00 deathstranding@lemmy.world 77 6 Death Stranding
+0.00 debunkthis@lemmy.world 813 11 DebunkThis
+0.00 decadeology@lemmy.world 110 5 Decadeology
+0.00 declutter@lemmy.world 65 10 Declutter
+0.00 defoncemoilecarton@lemmy.world 35 7 Défonce moi le carton !
+0.00 delaware@lemmy.world 50 6 Delaware
+0.00 delorean@lemmy.world 14 9 DeLorean
+0.00 deltaairlines@lemmy.world 44 8 Delta Air Lines
+0.00 denmark@lemmy.world 140 4 Denmark
+0.00 denvercirclejerk@lemmy.world 193 28 DenverCircleJerk
+0.00 desantisthreatensusa@lemmy.world 481 222 DeSantisThreatensUSA
+0.00 deserts@lemmy.world 179 19 Deserts
+0.00 destinycirclejerk@lemmy.world 152 18 Destinycirclejerk
+0.00 destinyfashion@lemmy.world 113 6 Destiny Fashion
+0.00 destinygg@lemmy.world 48 3 destiny.gg - Destiny the Streamer/Political Commentator
+0.00 destiny@lemmy.world 1623 85 Destiny
+0.00 detroitcityfc@lemmy.world 41 5 Detroit City FC
+0.00 detroit@lemmy.world 73 5 Detroit
+0.00 detroitpistons@lemmy.world 69 25 Detroit Pistons
+0.00 dfw@lemmy.world 377 94 Dallas-Fort Worth
+0.00 diablo2@lemmy.world 56 3 Diablo 2 Community
+0.00 digitalbioacoustics@lemmy.world 90 76 Digital Bioacoustics
+0.00 digitalnomadsoflemmy@lemmy.world 167 5 Work Online, Live Anywhere
+0.00 dinosaurs@lemmy.world 60 6 Dinosaurs
+0.00 discomusic@lemmy.world 61 26 Disco Music
+0.00 discordapp@lemmy.world 266 14 Discord
+0.00 discord_communities@lemmy.world 133 4 Discord Communities
+0.00 discordianism@lemmy.world 50 8 D̶̫̉i̶̥̅ș̷̐c̴͍̕o̸̘͠r̴̘̊d̸̡̅i̷͚̒a̶̡͌n̶̻̄i̶̺̎s̷̃͜m̸̡͊
+0.00 discover@lemmy.world 131 13 Discover Communities
+0.00 disenchantment@lemmy.world 117 5 Disenchantment
+0.00 dishes_are_done@lemmy.world 101 12 Dishes Are Done
+0.00 disney@lemmy.world 692 33 Disney
+0.00 disneyworld@lemmy.world 118 4 Walt Disney World Resort
+0.00 distressingmemes@lemmy.world 51 3 distressingmemes
+0.00 divolt@lemmy.fmhy.net 18 4 Divolt and Revolt
+0.00 diwhy@lemmy.world 648 11 DiWHY: Questioning why some things exist
+0.00 diy@lemmy.world 560 5 DIY
+0.00 djs@lemmy.world 86 5 DJs
+0.00 dnb@lemmy.world 49 5 Drum & Bass
+0.00 dnd_ai@lemmy.world 209 9 Dungeons and Dragons - AI
+0.00 dnd_art@lemmy.world 225 5 Dungeons and Dragons - Art
+0.00 dndhomebrew@lemmy.world 374 15 DnD Homebrew
+0.00 docker@lemmy.world 317 13 Docker
+0.00 documentaries@lemmy.world 837 51 Documentaries
+0.00 dogecoin@lemmy.world 65 3 Dogecoin
+0.00 dogma_media_diary@lemmy.world 27 18 dogma’s media diary
+0.00 dogma_pizza_diary@lemmy.world 21 14 dogma’s pizza diary
+0.00 dogsincostumes@lemmy.world 385 45 Dogs in costumes
+0.00 dokkan@lemmy.world 44 7 Dokkan Battle
+0.00 dollhouse@lemmy.world 88 23 Dollhouse Miniatures
+0.00 dontyouknowwhoiam@lemmy.world 2538 34 Don’t You Know Who I Am?
+0.00 doodledogs@lemmy.world 76 7 Doodle Dogs
+0.00 doommetal@lemmy.world 254 62 Doom Metal
+0.00 dota2@lemmy.world 242 20 Dota 2
+0.00 dothack@lemmy.world 50 3 dothack | .hack
+0.00 dotnet@lemmy.world 209 10 .NET Programming
+0.00 dougdoug@lemmy.world 43 4 DougDoug
+0.00 downtherabbithole@lemmy.world 110 4 Down the Rabbit Hole
+0.00 dozenal@lemmy.world 44 3 Dozenal
+0.00 drawing@lemmy.world 464 38 Drawing
+0.00 dreamcast@lemmy.world 65 3 Dreamcast
+0.00 dreaming@lemmy.world 98 8 Dreams, Dreaming, etc.
+0.00 dreamlightvalley@lemmy.world 106 29 Dreamlight Valley
+0.00 drg@lemmy.world 1785 116 Deep Rock Galactic
+0.00 drillmusic@lemmy.world 48 24 Drill Music
+0.00 dropout@lemmy.world 177 32 Dropout
+0.00 drsgme@lemmy.world 307 39 GME
+0.00 drugmemes@lemmy.world 127 21 drugmemes
+0.00 drugs@lemmy.world 465 15 Drugs
+0.00 drumandbass@lemmy.world 819 533 Drum'n'Bass
+0.00 drums@lemmy.world 167 14 Drums
+0.00 drupal@lemmy.world 50 8 Drupal
+0.00 ds9@lemmy.world 413 17 Star Trek: Deep Space Nine
+0.00 dsbm@lemmy.world 78 9 Depressive Suicidal Black Metal
+0.00 ducks@lemmy.world 28 3 Ducks
+0.00 dumbphones@lemmy.world 89 4 Dumbphones
+0.00 dumdermifflin@lemmy.world 42 4 Dunder Mifflin
+0.00 dune@lemmy.world 615 32 ᑐ ᑌ ᑎ ᕮ
+0.00 dungeons_and_daddies@lemmy.world 75 8 Dungeons and Daddies
+0.00 dungeonsynth@lemmy.world 37 3 Dungeon Synth
+0.00 duolingo@lemmy.world 328 16 Duolingo
+0.00 dynavap@lemmy.world 138 5 Dynavap
+0.00 earnyourkeep@lemmy.world 34 3 Earn Your Keep
+0.00 ecoecon@lemmy.world 89 12 Ecological Economics
+0.00 economy@lemmy.world 133 7 Economy
+0.00 edibleweeds@lemmy.world 116 5 Edible Weeds
+0.00 edm@lemmy.world 300 18 EDM
+0.00 educacion_en_mexico@lemmy.world 36 4 edu_mex
+0.00 ege@lemmy.world 21 3 European Goldfish Enthusiasts
+0.00 egginc@lemmy.world 51 6 Egg, Inc.
+0.00 egg_irl@lemmy.world 70 3 egg_irl
+0.00 eggpunk@lemmy.world 37 8 Egg Punk
+0.00 egypt@lemmy.world 89 4 Egypt
+0.00 eindhoven@lemmy.world 36 3 Eindhoven
+0.00 eink@lemmy.world 43 3 e-Ink Tablets
+0.00 elderscrollsonline@lemmy.world 130 5 Elder Scrolls Online
+0.00 electricscooters@lemmy.world 65 9 Electric Scooters
+0.00 electronic_music@lemmy.world 61 6 Electronic Music
+0.00 electropunk@lemmy.world 46 4 i love electropunk
+0.00 elgoonishshive@lemmy.world 47 17 El Goonish Shive
+0.00 eli5@lemmy.world 185 3 Explain Like I'm 5 (ELI5)
+0.00 elysianeclipse@lemmy.world 32 5 Elysian Eclipse
+0.00 embroidery@lemmy.world 83 10 Embroidery
+0.00 emeraldroost@fernchat.esotericmonkey.com 65 4 Emerald Roost
+0.00 emoji@sjatar.net 54 3 Suggest Emojis to add here!
+0.00 emo@lemmy.world 115 18 Emo
+0.00 emtb@lemmy.world 31 3 EMtb
+0.00 encryption@lemmy.world 244 6 Encryption
+0.00 engadget@lemmy.amyjnobody.com 55 36 Engadget (RSS)
+0.00 engineeringmemes@lemmy.world 637 21 Engineering Memes
+0.00 english_bull_terrier@lemmy.world 36 4 English Bull Terrier
+0.00 englishpractice@lemmy.world 44 3 English practice - a place to practice your English and make new friends.
+0.00 environment@lemmy.world 96 19 Environment
+0.00 e_os@lemmy.world 132 5 /e/OS
+0.00 epicmusic@lemmy.world 58 10 Epic Music
+0.00 epicseven@lemmy.world 76 27 Epic Seven
+0.00 ereader@lemmy.world 30 11 Ereader
+0.00 ergo@lemmy.world 47 28 Ergo
+0.00 escapefromtarkov@lemmy.world 146 12 EscapeFromTarkov
+0.00 espace@lemmy.world 49 11 Espace
+0.00 espanol@lemmy.world 119 6 Español
+0.00 ethdev@lemmy.world 60 6 Ethereum Developers
+0.00 ethnomusicology@lemmy.world 47 3 Ethnomusicology
+0.00 etrian_odyssey@lemmy.world 38 8 Golden Deer Pub
+0.00 etsysellers@lemmy.world 99 4 Etsy Sellers
+0.00 eurobike@lemmy.world 56 4 EuroBike
+0.00 europa@lemmy.world 660 13 Europa / Europe and the EU + EEA
+0.00 europeanfederalists@lemmy.world 126 18 European Federalists
+0.00 eurovision@lemmy.world 143 24 Eurovision Song Contest
+0.00 everexpandingbunker@lemmy.world 39 5 The Ever-Expanding Bunker
+0.00 evilbuildings@lemmy.world 784 29 Evil Buildings
+0.00 exanima@lemmy.world 35 7 Exanima
+0.00 excel@lemmy.world 118 4 Excel
+0.00 exchristian@lemmy.world 146 6 exchristian
+0.00 exiglesianicristo@lemmy.world 29 3 Ex-Iglesia Ni Cristo
+0.00 experimentalsoftware@lemmy.world 41 3 Experimental Software
+0.00 f1feederseries@lemmy.world 53 4 F1 Feeder Series
+0.00 f1porn@lemmy.world 74 4 F1Porn
+0.00 faceting@lemmy.world 212 40 Faceting
+0.00 fafo@lemmy.world 51 8 Fuck Around and Find out
+0.00 failedproducts@lemmy.world 48 4 Failed Products
+0.00 falcons@lemmy.world 72 23 Atlanta Falcons
+0.00 familyguyshitposting@lemmy.world 78 15 familyguyshitposting
+0.00 famouspeople@exploding-heads.com 38 37 Famous People
+0.00 fanfiction@lemmy.world 128 20 Fanfiction of Our Own - A World Within and Beyond Fandoms
+0.00 fantasyfootball@lemmy.world 295 19 Fantasy Football
+0.00 fantasywargaming@lemmy.world 53 17 Fantasy Tabletop Wargaming
+0.00 fashionsouls@lemmy.world 33 3 Fashion Souls
+0.00 fasting@lemmy.world 115 5 Fasting
+0.00 fastled@lemmy.amyjnobody.com 59 20 /r/fastLED (RSS)
+0.00 fatsquirrelhate@lemmy.world 79 6 Fat Squirrel Hate
+0.00 faunesauvage@lemmy.world 45 27 Faune Sauvage
+0.00 fcbarcelona@lemmy.world 48 9 fcbarcelona
+0.00 fcbayern@lemmy.world 78 36 FC Bayern
+0.00 fccincinnati@lemmy.world 79 28 FC Cincinnati
+0.00 feditopluluk@lemmy.world 17 3 fedi://topluluk
+0.00 fediverse_press@lemmy.world 228 26 Press coverage of the Fediverse
+0.00 feedthememes@lemmy.world 109 8 feedthememes
+0.00 fennec@lemmy.world 99 16 Fennec for Lemmy
+0.00 ferret@lemmy.world 96 9 ferret
+0.00 festivals@lemmy.world 44 4 Festivals
+0.00 fibromyalgia@lemmy.world 73 3 Fibromyalgia
+0.00 filmsframes@lemmy.world 425 54 Films Frames - Every Frame is a Painting
+0.00 finalfantasy@lemmy.world 578 35 Final Fantasy
+0.00 finalfantasyxiv@lemmy.world 700 28 Final Fantasy XIV
+0.00 finnerationapproved@lemmy.world 26 4 finnerationapproved
+0.00 fireemblem@lemmy.world 236 15 Fire Emblem
+0.00 firefoxcss@lemmy.world 249 14 Firefox CSS
+0.00 firetvstick@lemmy.world 67 3 Amazon Fire TV Stick
+0.00 firo@lemmy.world 40 13 Firo
+0.00 firstimage@lemmy.world 381 19 First ever picture of everything
+0.00 firstworldproblems@lemmy.world 91 3 First World Problems
+0.00 fishing@lemmy.world 373 34 Fishing
+0.00 fitandnatural@lemmy.world 670 64 FitAndNatural
+0.00 fitmoe@lemmy.world 257 107 FitMoe
+0.00 fitness@lemmy.world 2836 55 Fitness
+0.00 fixedgearbikes@lemmy.world 69 8 Fixed Gear Bikes
+0.00 flipper_zero@skein.city 34 4 Flipper Zero Information
+0.00 floof@lemmy.world 191 10 floof
+0.00 florida@lemmy.world 243 23 Florida - The Sunshine State
+0.00 floridaman@lemmy.world 97 5 Florida Man, Florida Man, Florida Man meets Rational Man...
+0.00 flowerart@lemmy.world 27 7 Flower Art
+0.00 flowers@lemmy.world 123 30 Flowers
+0.00 flying@lemmy.world 178 8 Flying
+0.00 fnv@lemmy.world 300 24 Fallout New Vegas
+0.00 footballmanager@lemmy.world 87 4 Football Manager
+0.00 foraging@lemmy.world 569 21 Foraging 🍄🍓
+0.00 ford@lemmy.world 79 5 Ford Cars/Trucks
+0.00 formula1@lemmy.zip 15 5 Formula 1
+0.00 formuladank@lemmy.world 2713 145 Formuladank - We survived F1, now back to two wheels
+0.00 fosai@lemmy.world 1419 69 Free Open-Source Artificial Intelligence
+0.00 foss_gaming@lemmy.world 1010 77 Free and Open-Source Gaming
+0.00 foss@lemmy.world 132 6 free and open source software
+0.00 fosterkittens@lemmy.world 57 5 FosterKittens
+0.00 foundsatan@lemmy.world 1252 25 Found Satan
+0.00 fountainpens@lemmy.world 160 12 Fountain Pens
+0.00 fountainpens@sopuli.xyz 717 40 Fountain Pens
+0.00 foxes@lemmy.world 572 50 Fox pics
+0.00 fpl@lemmy.world 126 41 Fantasy Premier League
+0.00 frankocean@lemmy.world 43 4 Frank Ocean
+0.00 freecycle@lemmy.world 57 5 Freecycle
+0.00 freemasonry@lemmy.world 156 9 Freemasonry
+0.00 freemediaheckyeah@lemmy.fmhy.net 371 4 FREEMEDIAHECKYEAH
+0.00 freesoftware@lemmy.world 237 6 Free software
+0.00 frisson@lemmy.world 81 8 Frisson
+0.00 frogpics@lemmy.world 94 10 Frog pics
+0.00 frugalmeals@lemmy.world 111 6 Frugal Meals
+0.00 frusciante@lemmy.world 40 3 John Frusciante
+0.00 fsusports@lemmy.world 28 11 Florida State University Sports
+0.00 ft86@lemmy.world 44 3 Toyobaru Twins (86/GR86/BRZ/etc)
+0.00 fucknestle@lemmy.world 664 8 fucknestle
+0.00 fuji@lemmy.world 51 5 Fuji
+0.00 fumo@lemmy.world 26 3 Fumo
+0.00 funkmusic@lemmy.world 170 24 Funk Music
+0.00 funny@chat.maiion.com 74 31 c/Funny
+0.00 funnysigns@lemmy.world 492 33 funny signs
+0.00 fusionjazz@lemmy.world 29 3 Jazz Fusion
+0.00 futebol@lemmy.world 32 11 Futebol Português
+0.00 fxtst@lemmy.world 35 18 fxtst
+0.00 gadgets@lemmy.world 633 21 Gadgets
+0.00 galaxyfold@lemmy.world 148 7 Galaxy Fold
+0.00 gallowshumor@lemmy.world 84 3 Gallows Humor
+0.00 gameboy@lemmy.world 592 22 GameBoy
+0.00 gamebundles@lemmy.world 73 3 gamebundles
+0.00 gamecollecting@lemmy.world 101 4 gamecollecting
+0.00 gamedealsfree@lemmit.online 69 67 The free games in r/gameDeals
+0.00 gamedev@lemmy.world 124 6 Gamedev
+0.00 gamegrumps@lemmy.world 68 33 Game Grumps
+0.00 gamephysics@lemmy.world 206 7 Game Physics
+0.00 gameshows@lemmy.world 64 6 Game Shows
+0.00 gameswithgold@lemmy.world 45 6 gameswithgold
+0.00 gaminglaptops@lemmy.world 67 4 /c/GamingLaptops: All about gaming laptops
+0.00 garagepunk@lemmy.world 17 12 Garage Punk
+0.00 garfield@lemmy.world 82 40 Garfield
+0.00 gatewaytapes@lemmy.world 50 5 Hemi-sync Gateway Tapes
+0.00 gawrgura@lemmy.world 117 79 Gawr Gura
+0.00 gay@lemmy.world 766 19 Gay // gay_irl
+0.00 geekfrance@lemmy.world 276 128 Geek France
+0.00 geese@lemmy.world 57 6 Geese
+0.00 gemsofwar@lemmy.world 39 12 Gems of War
+0.00 gemstones@lemmy.world 68 4 Gemstones & Jewelry
+0.00 gen_ai@lemmy.world 103 7 Generative AI
+0.00 genealogy@lemmy.world 120 4 Genealogy
+0.00 genshin_impact_leaks@lemmy.world 378 32 Genshin Impact Leaks
+0.00 genshin_impact@lemmy.world 1261 147 Genshin Impact
+0.00 genshinimpact@lemmy.world 48 4 Genshin Impact
+0.00 genshinsapphic@lemmy.world 50 4 GenshinSapphic
+0.00 genx@lemmy.world 428 17 Gen X, the meh generation
+0.00 geocaching@lemmy.world 193 10 Geocaching
+0.00 geometrydash@lemmy.world 93 17 Geometry Dash
+0.00 georgiacampandhike@lemmy.world 68 16 Georgia Camp and Hike
+0.00 gerbils@lemmy.world 54 12 Gerbils
+0.00 german@lemmy.world 215 8 The German Language
+0.00 getmotivated@lemmy.world 248 6 Get Motivated
+0.00 ghibli@lemmy.world 813 13 Studio Ghibli (スタジオ ジブリ)
+0.00 gifrecipes@lemmy.world 731 15 Gif Recipes
+0.00 gifs@lemmy.world 723 14 Gifs
+0.00 giftofgaming@lemmy.world 529 20 Gift of Gaming
+0.00 gintama@lemmy.world 34 8 Gintama (銀魂)
+0.00 giraffes@lemmy.world 98 31 Giraffes
+0.00 girlsfrontline@lemmy.world 18 6 GirlsFrontline
+0.00 gis@lemmy.world 179 8 Geographic Information Systems
+0.00 glitch_art@lemmy.world 48 5 Glitch Art
+0.00 glitchinthematrix@lemmy.world 198 5 Glitch in the Matrix
+0.00 globalorderofsatan@lemmy.world 74 10 The Global Order Of Satan
+0.00 glutenfree@lemmy.world 234 15 Gluten Free
+0.00 gmemeltdown@lemmy.world 48 3 GME Meltdown
+0.00 gmm@lemmy.world 118 24 Good Mythical Morning
+0.00 gnosticism@lemmy.world 59 4 Gnosticism
+0.00 godsunchained@lemmy.world 34 6 Gods Unchained
+0.00 goducksgo@lemmy.world 41 3 Anaheim Ducks (NHL)
+0.00 goducks@lemmy.world 40 35 GoDucks
+0.00 godzilla@lemmy.world 103 6 Godzilla
+0.00 goldendoodles@lemmy.world 53 4 GoldenDoodles
+0.00 gold@lemmy.world 51 7 Gold
+0.00 goldsilver@lemmy.world 36 3 Gold & Silver
+0.00 golf@lemmy.world 326 28 Golf
+0.00 goodanimemes@lemmy.world 216 7 GoodAnimemes
+0.00 goodoffmychest@lemmy.world 203 24 Off My Chest
+0.00 good_omens@lemmy.world 59 4 Good Omens
+0.00 google@lemmy.world 1027 16 Google
+0.00 googlepixelfold@lemmy.world 58 3 Google Pixel Fold
+0.00 gothindustrial@lemmy.world 122 16 Goth Industrial Music
+0.00 gotink@lemmy.world 32 15 GoTink
+0.00 gpgpractice@lemmy.world 48 4 GPGPractice
+0.00 gpt3@lemmy.world 58 12 GPT-3
+0.00 graffiti@lemmy.world 42 3 graffiti
+0.00 grand_blue@lemmy.world 37 3 Grand Blue
+0.00 grandrapids@lemmy.world 83 4 Grand Rapids
+0.00 grandtheftauto@lemmy.world 114 4 Grand Theft Auto
+0.00 granturismo@lemmy.world 56 5 Gran Turismo
+0.00 graphic_design@lemmy.world 180 14 Graphic Design
+0.00 graphicnovels@lemmy.world 79 5 GraphicNovels
+0.00 graps@lemmy.world 33 4 It's pro wrestling, but people in the know call it 'graps'
+0.00 gratefuldead@lemmy.world 336 41 Grateful Dead
+0.00 gravityfalls@lemmy.world 104 20 Gravity Falls
+0.00 greenbay@lemmy.world 34 10 Green Bay
+0.00 greenhouse_growers@lemmy.world 97 9 greenhouse_growers
+0.00 grenoble@lemmy.world 55 5 Communauté Lemmy Grenobloise
+0.00 grimdank@lemmy.world 1320 130 grimdank
+0.00 grindcore@lemmy.world 35 7 Grindcore
+0.00 guineapigs@lemmy.world 140 40 guinea pigs
+0.00 guitaramps@lemmy.world 133 6 GuitarAmps
+0.00 guitarpedals@lemmy.world 695 49 Guitar Pedals
+0.00 guitar_virtuoso@lemmy.world 89 31 Guitar Virtuoso
+0.00 gundeals@lemmy.world 375 15 Gun Deals
+0.00 gunpla@lemmy.world 275 20 Gunpla Building Community
+0.00 guns@lemmy.world 674 48 guns
+0.00 gurps_unofficial@lemmy.world 65 5 Unofficial GURPS Community
+0.00 gyllenhaalbowl@lemmy.world 33 13 Jake Gyllenhaal Bowl
+0.00 h3h3productions@lemmy.world 195 32 h3h3 Productions
+0.00 habs@lemmy.world 116 18 Montréal Canadiens
+0.00 hadtohurt@lemmy.world 27 5 Had To Hurt
+0.00 halflife@lemmy.world 199 5 HλLF LIFE
+0.00 hammers@lemmy.world 40 3 Hammers
+0.00 hamptonroads@lemmy.world 72 40 Hampton Roads, Virginia
+0.00 haphne@lemmy.world 7 3 Haphne
+0.00 harborfreight@lemmy.world 97 10 Harbor Freight
+0.00 hardcorepunk@lemmy.world 215 12 Hardcore punk community
+0.00 hardcoretechno_gabberhouse@lemmy.world 13 10 Gabberhouse
+0.00 hardimages@lemmy.world 57 5 Hard Images
+0.00 hardwaregore@lemmy.world 174 8 Hardware Gore
+0.00 harpsichord@lemmy.world 39 4 Harpsichord
+0.00 haruhi@lemmy.world 66 16 Haruhi (ハルヒ)
+0.00 hatchbacks@lemmy.world 37 3 Hatchbacks
+0.00 hawkeyes@lemmy.world 27 4 hawkeyes
+0.00 hdev@lemmy.world 71 55 Hedges Development
+0.00 health@lemmy.world 989 121 Health - Resources and discussion for everything health-related
+0.00 healthyfood@lemmy.world 394 5 Healthy Food
+0.00 hearthstone@lemmy.world 178 16 Hearthstone
+0.00 heat@lemmy.world 94 9 Miami Heat
+0.00 heatpumpmemes@lemmy.world 34 3 heatpumpmemes
+0.00 heavymind@lemmy.world 102 30 Heavy Mind
+0.00 hellenism@lemmy.world 46 3 Hellenism
+0.00 helloworld@lemmy.management 75 13 The Hello World
+0.00 hermeticism@lemmy.world 71 12 Hermeticism
+0.00 hermitcraft@lemmy.world 192 81 Hermitcraft
+0.00 heroforgeminis@lemmy.world 51 6 HeroForgeMinis
+0.00 hifi@lemmy.world 292 7 HiFi - For The Audio Connoisseur
+0.00 highheelssfw@lemmy.world 83 14 High heels SFW
+0.00 historymemes@lemmy.world 160 3 A sub for Historymemes
+0.00 historyporn@lemmy.world 919 45 HistoryPorn
+0.00 hmres@lemmy.world 274 29 Home Made Renewable Energy Systems
+0.00 hockey@lemmy.world 1436 63 Hockey
+0.00 hokkian_gu@lemmy.world 41 7 福建語放送台
+0.00 hololive@lemmy.world 795 111 hololive
+0.00 homeassistant@lemmy.world 7850 158 homeassistant
+0.00 homekit@lemmy.world 92 3 Homekit
+0.00 homelab@lemmy.world 260 3 homelab
+0.00 homestead@lemmy.world 511 7 Homestead
+0.00 hometheatre@lemmy.world 36 4 Home Theatre
+0.00 hondaelement@lemmy.world 29 7 Honda Element
+0.00 honda@lemmy.world 81 5 honda and acura
+0.00 hongkong@lemmy.world 163 21 Hong Kong
+0.00 hookahshisha@lemmy.world 38 5 Hookah
+0.00 hookers@lemmy.world 58 4 Hookers
+0.00 horde_inc@lemmy.world 36 6 Horde Incoming!
+0.00 horrorlit@lemmy.world 232 8 Horror Lit
+0.00 hotgirls@lemmy.world 28 4 Heiße Girls in Deutschland suchen vielleicht genau dich?
+0.00 hotindianactresses@lemmy.world 25 13 Hot Indian Actresses
+0.00 hotpeppers@lemmy.world 411 26 Hot Peppers
+0.00 hotwheels@lemmy.world 54 5 Hot Wheels
+0.00 houdini@lemmy.world 61 4 Houdini
+0.00 housemusic@lemmy.world 172 28 House Music
+0.00 housingcrisis@lemmy.world 134 25 Housing Crisis
+0.00 houston_sabercats@lemmy.world 24 3 Houston SaberCats
+0.00 hoyaprendi@lemmy.world 109 63 Hoy aprendí (TIL->HA)
+0.00 hpfanfiction@lemmy.world 139 19 Harry Potter Fanfiction
+0.00 hufflepuff@lemmy.world 34 6 Hufflepuff
+0.00 humor@midwest.social 148 3 Humor
+0.00 hungary@lemmy.world 206 33 Hungary
+0.00 huntshowdown@lemmy.world 226 51 Hunt Showdown
+0.00 hydrohomies@lemmy.world 109 4 Hydro homies
+0.00 hyprland@lemmy.world 141 10 Hyprland Desktop Environment
+0.00 idaho@lemmy.world 79 4 Idaho
+0.00 ieg@lemmy.world 20 6 Experiences
+0.00 ifbookscouldkill@prxs.site 60 6 If Books Could Kill
+0.00 iiiiiiitttttttttttt@lemmy.world 56 3 iiiiiiitttttttttttt
+0.00 iloveoyu@lemmy.world 32 5 Frens / Frenwave
+0.00 images@lemmy.world 23 5 Images
+0.00 imaginarylandscapes@lemmy.world 211 11 Imaginary Landscapes
+0.00 imaginarystarships@lemmy.world 524 41 Imaginary Starships
+0.00 imaginarywarhammer@lemmy.world 216 33 Imaginary Warhammer
+0.00 immersionporn@lemmy.world 184 20 immersionporn
+0.00 imperor@lemmy.world 49 11 The Imperium
+0.00 imsorryjon@lemmy.world 136 12 I'm sorry, Jon
+0.00 incremental_games@lemmy.world 195 8 Incremental Games
+0.00 indianfood@lemmy.world 57 5 Indian Food
+0.00 indiedev@lemmy.world 95 7 IndieDev
+0.00 indiemakeupandmore@lemmy.world 150 61 Indie Makeup and More
+0.00 indonesia@lemmy.world 129 6 indonesia
+0.00 indycar@lemmy.world 229 21 IndyCar
+0.00 indyvideo@lemmy.world 44 39 Indy Video
+0.00 infographics@chat.maiion.com 110 36 c/Infographics
+0.00 inland_empire@lemmy.world 54 19 Inland Empire
+0.00 in_other_news@sh.itjust.works 9 8 In Other News
+0.00 insanepinoyfacebook@lemmy.world 97 26 InsanePinoyFacebook
+0.00 insta360@lemmy.world 56 12 Insta360 Action Camera Community
+0.00 insurance@lemmy.world 47 3 Insurance
+0.00 internetfuneral@lemmy.world 2224 132 internet funeral
+0.00 introvert@lemmy.world 140 5 introvert
+0.00 intune@lemmy.world 44 4 intune
+0.00 iosapps@lemmy.world 64 13 iOS Apps and Talk
+0.00 iosbeta@lemmy.world 1557 53 iOS Beta
+0.00 iossetups@lemmy.world 108 4 iOS Setups
+0.00 iowa@lemmy.world 95 18 Iowa
+0.00 ipad@lemmy.world 272 7 iPad
+0.00 ipados@lemmy.world 133 4 iPadOS
+0.00 ipfs@lemmy.world 36 3 ipfs
+0.00 iphone_community@lemmy.world 371 11 iPhone
+0.00 iraq@lemmy.world 32 6 Iraq
+0.00 ironmaiden@lemmy.world 90 6 Iron Maiden
+0.00 ironscape@lemmy.world 48 3 ironscape
+0.00 ironsworn@lemmy.world 62 5 Ironsworn
+0.00 islamichistory@monyet.cc 36 6 Islamic History
+0.00 ismailis@lemmy.world 36 34 Ismailis
+0.00 isopods@lemmy.world 104 13 All things Isopod.
+0.00 israel@lemmy.world 83 9 Israel
+0.00 israel_palestine_pol@lemmy.world 106 51 Israel & Palestine Politics Discussion
+0.00 israelrailways@lemmy.world 36 7 Israel Railways
+0.00 italia@lemmy.world 59 3 Italia
+0.00 ithinkyoushouldleave@lemmy.world 121 6 I Think You Should Leave
+0.00 iwanttoescape@lemmy.world 26 6 You can try to escape
+0.00 jambands@lemmy.world 48 5 Jambands
+0.00 japanesemascots@lemmy.world 87 9 Mascots from Japan
+0.00 japanlife@lemmy.world 347 25 Japan Life
+0.00 jasonisbell@lemmy.world 30 12 Jason Isbell
+0.00 jayhawks@lemmy.world 43 3 Kansas Jayhawks
+0.00 jazzfunk@lemmy.world 76 14 JazzFunk
+0.00 jbrc@lemmy.world 236 9 John Brown Rifle Collective
+0.00 jellyfish@lemmy.world 289 57 jellyfish
+0.00 jeongyeon@lemmy.world 76 28 Jeongyeon
+0.00 jeuxvideo@lemmy.world 150 24 Jeux Vidéo
+0.00 jigsaw_puzzles@lemmy.world 130 79 Jigsaw Puzzles
+0.00 jobs@lemmy.world 178 4 Jobs
+0.00 joeroganexperience@lemmy.world 252 90 Joe Rogan Experience
+0.00 jonkenator@lemmy.world 20 14 Jonkenator's Linkblog
+0.00 journaling@lemmy.world 272 12 Journaling
+0.00 judo@lemmy.world 109 25 Judo
+0.00 jung@lemmy.world 62 13 Carl Jung and Jungian Psychology
+0.00 justrolledin@lemmy.world 504 13 Just rolled into the shop
+0.00 kaesong@lemmy.world 9 4 Kaesong - The World's Most Beautiful (and free) City!
+0.00 kamenrider@lemmy.world 74 23 Kamen Rider
+0.00 kansascitychiefs@lemmy.world 274 50 kansascitychiefs
+0.00 karate@lemmy.world 56 3 Karate
+0.00 kawasaki@lemmy.world 42 5 Kawasaki
+0.00 keepwriting@lemmy.world 571 126 Keep Writing
+0.00 kemonomimi@lemmy.world 43 11 kemonomimi
+0.00 kenopsia@lemmy.world 83 6 kenopsia - emptiness seeing
+0.00 kentucky@lemmy.world 70 4 Kentucky
+0.00 kerala@lemmy.world 68 4 Kerala
+0.00 keto@lemmy.world 226 6 Keto
+0.00 kidsarefuckingstupid@lemmy.world 440 6 Kids Are Fucking Stupid
+0.00 kidsbeingderps@lemmy.world 242 7 KidsBeingDerps
+0.00 kidsinthehall@lemmy.world 61 22 The Kids in the Hall
+0.00 kindle@lemmy.world 284 13 Kindle
+0.00 kingcobrajfs@lemmy.world 31 3 KingCobraJFS
+0.00 kingdom@lemmy.world 45 5 Kingdom
+0.00 kings@lemmy.world 43 3 Los Angeles Kings
+0.00 kirby@lemmy.world 152 45 Kirby
+0.00 klipper@lemmy.world 77 4 Klipper
+0.00 klr650@lemmy.world 40 6 KLR 650
+0.00 knightsofpineapple@lemmy.world 57 6 Knights of Pineapple
+0.00 kobo@lemmy.world 105 4 Kobo
+0.00 kombucha@lemmy.world 49 3 kombucha
+0.00 korea@lemmy.world 101 11 Korea
+0.00 kpop@lemmy.world 326 185 kpop
+0.00 kratom@lemmy.world 106 4 Kratom
+0.00 ksp@lemmy.world 42 7 KSP
+0.00 ktm@lemmy.world 36 3 KTM
+0.00 kubernetes@lemmy.world 78 12 Kubernetes
+0.00 kurumi@lemmy.world 59 54 Kurumi Tokisaki
+0.00 kyudo@lemmy.world 30 6 Kyudo - Japanese archery
+0.00 labrats@lemmy.world 144 10 Lab rats
+0.00 laclippers@lemmy.world 60 15 LA Clippers
+0.00 ladyboners@lemmy.world 50 18 Ladyboners
+0.00 lagunachat@laguna.chat 67 5 Laguna.chat
+0.00 lakers@lemmy.world 216 12 lakers
+0.00 language@lemmy.world 72 3 Languages of the World
+0.00 larams@lemmy.world 50 3 Los Angeles Rams
+0.00 laravel@lemmy.world 103 3 Laravel
+0.00 lasercutting@lemmy.world 98 4 Laser Cutting
+0.00 laserengraving@lemmy.world 74 3 Laser Engraving
+0.00 law@lemmy.world 226 33 Law
+0.00 learnicelandic@lemmy.world 38 3 Learn Icelandic
+0.00 leatherman@lemmy.world 70 3 Leatherman
+0.00 lebowski@lemmy.world 75 6 Lebowski
+0.00 lectures@lemmy.world 75 5 Lectures
+0.00 legendsofruneterra@lemmy.world 102 15 Legends of Runeterra
+0.00 lego@lemmy.world 2337 63 LEGO
+0.00 legostorage@lemmy.world 166 7 Lego Storage
+0.00 leica@lemmy.world 56 6 Leica
+0.00 lemmit@lemmy.world 80 5 Lemmit
+0.00 lemmotif@lemmy.world 138 5 Lemmotif
+0.00 lemmyapps@lemmy.world 3855 85 Lemmy Apps
+0.00 lemmybread@lemmy.world 261 5 Lemmy Bread
+0.00 LemmyClient@lemmy.world 47 6 LemmyClient
+0.00 lemmydrama@lemmy.world 819 13 Drama in the Fediverse
+0.00 lemmyfootballvidtest@lemmy.world 43 34 Lemmy_Football_Vid_Test
+0.00 lemmyjsapi@lemmy.world 58 5 Lemmy JS API
+0.00 lemmylaqueristas@lemmy.world 110 24 LemmyLaqueristas: A Nail Polish Community!
+0.00 lemmy@lemmy.devils.house 67 3 Lemmy
+0.00 lemmylove@lemmy.world 58 12 Love
+0.00 lemmytellusomething@lemmy.world 290 10 Lemmy Tell You Something
+0.00 lemmyworldtest@lemmy.world 123 5 Testing Lemmy
+0.00 lennybird@lemmy.world 7 3 lennybird
+0.00 leopardsatemyface@lemmy.world 905 14 Leopards Ate My Face
+0.00 letters@lemmy.world 34 4 Unsent Letters
+0.00 liberalgunowners@lemmy.world 375 13 Liberal Gun Owners
+0.00 liberalism@lemmy.world 115 20 Liberalism
+0.00 libertarianism@lemmy.world 176 9 libertarianism
+0.00 libraries@lemmy.world 79 3 Libraries
+0.00 library_haul@lemmy.world 47 7 Library Haul
+0.00 library@lemmy.world 84 9 Libraries
+0.00 librerpg@lemmy.world 29 4 Librerpg
+0.00 lifeprotips@lemmy.world 1422 8 Life Pro Tips
+0.00 lightsabers@lemmy.world 69 3 Lightsabers
+0.00 liminalspace@lemmy.world 1605 82 LiminalSpace
+0.00 limitedprintgames@lemmy.world 57 23 Limited Print Games
+0.00 limmy@lemmy.world 73 4 Limmy on Lemmy
+0.00 limp_bizkit@lemmy.world 23 3 Limp Bizkit
+0.00 linkedinfr@lemmy.world 66 6 LinkedinFr
+0.00 linkinpark@lemmy.world 62 5 Linkin Park
+0.00 linusfaces@lemmy.world 41 3 LinusFaces
+0.00 linux4noobs@lemmy.world 416 12 Linux 101 stuff. Questions are encouraged, noobs are welcome!
+0.00 linux@chat.maiion.com 76 31 c/Linux
+0.00 linuxcracksupport@lemmy.world 1169 30 Linux Crack Tips
+0.00 linuxediting@lemmy.world 87 31 linuxediting
+0.00 linux@lemmy.world 4440 101 Linux
+0.00 linuxquestions@lemmy.world 331 11 Linux Questions
+0.00 linuxusersph@lemmy.world 57 4 LinuxUsersPH
+0.00 listeningto@lemmy.world 223 119 ListeningTo
+0.00 listentothis@lemmy.world 168 29 Listen to This
+0.00 liveforthem@lemmy.world 34 4 Live For Them
+0.00 livestreamfail@lemmy.world 381 11 Livestream Fails
+0.00 logoedits@lemmy.world 66 10 Logo Edits - logos edited to say / read something else
+0.00 londonsocialclub@lemmy.world 48 3 London Social Club
+0.00 longbeach@lemmy.world 52 17 Long Beach, California
+0.00 longhorn_nation@lemmy.world 49 3 Longhorn Nation
+0.00 longisland@lemmy.world 83 9 Long Island
+0.00 longreads@lemmy.world 163 10 Long Reads
+0.00 lordoftherings@lemmy.world 211 7 Lord Of The Rings
+0.00 loseitchallenges@lemmy.world 39 4 loseitchallenges
+0.00 lossprevention@lemmy.world 40 3 Loss Prevention
+0.00 lostcommunity@lemmy.world 41 7 Lost Communities
+0.00 lostinfilm@lemmy.world 56 8 Lost In Film
+0.00 lostlemmys@lemmy.world 213 8 Lost Lemmings
+0.00 lotm@lemmy.world 39 3 Lord of the Mysteries
+0.00 louisrossmann@lemmy.world 187 17 Louis Rossmann: Unofficial Community
+0.00 loveforadmins@lemmy.world 43 4 Love for Admins
+0.00 love_nikki@lemmy.world 36 4 Love Nikki 💗 Dress up Queen
+0.00 loweffortmemes@lemmy.world 37 18 Low Effort Memes
+0.00 lowsodiumdestiny@lemmy.world 192 6 LowSodiumDestiny
+0.00 lpotl@lemmy.world 164 5 Last Podcast on the Left
+0.00 luciddreaming@lemmy.world 133 7 Lucid Dreaming Community
+0.00 luckystar@lemmy.world 58 10 Lucky☆Star (らき☆すた)
+0.00 lunar_for_lemmy_ios@lemmy.world 62 3 Lunar for Lemmy iOS
+0.00 luxembourg@lemmy.world 61 8 Luxembourg
+0.00 lyon@lemmy.world 97 6 Lyon, France
+0.00 macapps@lemmy.world 360 12 macOS Apps
+0.00 mac_community@lemmy.world 169 5 Mac
+0.00 machinelearning@lemmy.world 618 26 Machine Learning | Artificial Intelligence
+0.00 machinists@lemmy.world 96 6 Machinists
+0.00 macos@lemmy.world 553 16 macOS
+0.00 magicalgirls@lemmy.world 69 3 magicalgirls
+0.00 main@catata.fish 17 3 main
+0.00 maine@lemmy.world 132 4 Maine
+0.00 main@lm.halfassmart.net 43 6 The Great Hall
+0.00 makelemmygreatagain@lemmy.world 16 3 MakeLemmyGreatAgain
+0.00 makerstuff@lemmy.world 381 8 For Makers, Creators and Doers
+0.00 malaysia@lemmy.world 184 30 Malaysia
+0.00 malefashionadvice@lemmy.world 554 16 Male Fashion Advice
+0.00 malepolish@lemmy.world 56 3 MalePolish
+0.00 mandelaeffect@lemmy.world 103 4 MandelaEffect
+0.00 mangacollectors@lemmy.world 24 5 Manga Collectors
+0.00 manga@lemmy.world 131 11 Manga
+0.00 mangalore@lemmy.world 37 3 Mangalore - Namma Kudla
+0.00 maplestory@lemmy.world 66 13 MapleStory
+0.00 mapporncirclejerk@lemmy.world 171 4 Mapporn Circlejerk
+0.00 mapporn@lemmy.world 1823 24 MapPorn
+0.00 maps@chat.maiion.com 63 11 c/Maps
+0.00 marijuanaenthusiasts@lemmy.world 103 4 Marijuana Enthusiasts!
+0.00 massachusetts@lemmy.world 262 18 Massachusetts
+0.00 masterduel@lemmy.world 77 28 Yu-Gi-Oh! Master Duel
+0.00 mavericks@lemmy.world 123 82 Dallas Mavericks
+0.00 mcgill@lemmy.world 28 4 McGill University
+0.00 mealtimevideos@lemmy.world 566 92 Mealtime Videos
+0.00 mechanical_engineering@lemmy.world 62 9 Mechanical Engineering
+0.00 media_misquoted@lemmy.world 30 16 Media Misquoted
+0.00 mediareviews@lemmy.world 60 35 Media Reviews
+0.00 mediatek@lemmy.world 22 3 MediaTek Inc
+0.00 meditation@lemmy.world 353 24 Meditation space
+0.00 medlabprofessionals@lemmy.world 60 7 Med Lab Professionals
+0.00 melrose@lemmy.world 18 4 Melrose, Massachusetts
+0.00 memes@chat.maiion.com 59 15 c/Memes
+0.00 memesderance@lemmy.world 46 13 Memes De Rance
+0.00 memes@lemmy.world 1848 97 memes
+0.00 memphis@lemmy.world 55 3 Memphis
+0.00 mensmentalhealth@lemmy.world 395 5 Men’s Mental Health
+0.00 mentalhealth@lemmy.world 2914 83 Mental Health
+0.00 mentaloutlaw@lemmy.world 77 3 mentaloutlaw
+0.00 meowmeow@lemmy.world 83 6 meowmeow
+0.00 merica@lemmy.world 48 3 Merica
+0.00 metalcore@lemmy.world 141 14 Metalcore
+0.00 metallica@lemmy.world 211 10 Metallica
+0.00 metalmemes@lemmy.world 1183 60 Metal Memes
+0.00 metaquest@lemmy.world 236 26 Meta Quest VR
+0.00 metroboomin@lemmy.world 23 5 Metro Boomin
+0.00 mets@lemmy.world 71 6 Mets
+0.00 mexico@lemmy.world 235 9 Mexico
+0.00 miami@lemmy.world 71 4 305 Miami
+0.00 miamisocialclub@lemmy.world 33 3 Miami Social Club
+0.00 michigantrees@lemmy.world 78 6 Michigan Trees
+0.00 microblogmemes@lemmy.world 719 63 Microblog Memes
+0.00 micromobility@lemmy.world 665 46 micromobility - Ebikes, scooters, longboards: Whatever floats your goat, this is micromobility
+0.00 microsoftedge@lemmy.world 86 7 Microsoft Edge
+0.00 microsoftflightsim@lemmy.world 333 8 Microsoft Flight Simulator
+0.00 microthoughts@lemmy.world 1141 36 microthoughts
+0.00 midjourney@lemmy.world 101 18 Midjourney
+0.00 migraine@lemmy.world 142 10 Migraine
+0.00 mikrotik@lemmy.world 106 17 Mikrotik
+0.00 mildlyinfuriating@chat.maiion.com 93 11 c/MildlyInfuriating
+0.00 mildlyinteresting@chat.maiion.com 110 25 c/MildlyInteresting
+0.00 militaria_collecting@lemmy.world 70 22 Militaria Collecting
+0.00 milwaukeetool@lemmy.world 71 4 Milwaukee Tool
+0.00 mindmatter@lemmy.world 356 6 Neuroscience and Technology
+0.00 mindupload@lemmy.world 53 14 mindupload
+0.00 minesweeper@lemmy.world 58 4 minesweeper
+0.00 minidisc@lemmy.world 75 4 MiniDisc
+0.00 minilab@lemmy.world 113 5 MiniLab
+0.00 minimalgpt@lemmy.world 11 5 MinimalGPT
+0.00 minneapolis@lemmy.world 121 4 Minneapolis
+0.00 miraculous@lemmy.world 51 9 Miraculous: Tales of Ladybug & Cat Noir
+0.00 missouri@lemmy.world 90 12 Missouri | The Show-Me State
+0.00 mkebucks@lemmy.world 60 15 Milwaukee Bucks
+0.00 mls@lemmy.world 629 129 MLS - Major League Soccer
+0.00 mmaleft@lemmy.world 100 7 MMALeft
+0.00 mmtranscriptarchive@lemmy.world 37 15 MurdoMaclachlan's Transcription Archive
+0.00 mobile@lemmy.world 113 6 Mobile📱 | iOS, iPhone, iPad and Apple | Android and Google
+0.00 moddedmc@lemmy.world 285 8 Modded Minecraft
+0.00 modelm@lemmy.world 49 6 Model M
+0.00 moderators@lemmy.world 555 41 Lemmy Moderators
+0.00 monarchism@lemmy.world 46 10 monarchism
+0.00 mongodb@lemmy.world 35 3 Mongo DB
+0.00 monitors@lemmy.world 83 3 Monitors
+0.00 monsterenergy@lemmy.world 30 6 Monster Energy
+0.00 monsterhunter@lemmy.world 413 36 Monster Hunter
+0.00 montana@lemmy.world 72 6 Montana
+0.00 morbidreality@lemmy.world 71 3 Morbid Reality
+0.00 morrowind@lemmy.world 75 6 Morrowind
+0.00 morrowindmods@lemmy.world 45 3 Morrowind Mods
+0.00 motorcycle_logistics@lemmy.world 90 4 motorcycle_logistics
+0.00 motorcycles@lemmy.world 1765 149 Motorcycles
+0.00 mountandblade@lemmy.world 120 12 Mount & Blade
+0.00 moviescirclejerk@lemmy.world 288 9 moviescirclejerk
+0.00 movies@lemmy.world 3815 88 movies
+0.00 moviesuggestions@lemmy.world 861 23 Movie Suggestions
+0.00 mrlovenstein@lemmy.world 53 6 Mr. Lovenstein
+0.00 msp@lemmy.world 128 3 MSP - Managed Service Providers
+0.00 mtb@lemmy.world 525 37 Mountain Biking
+0.00 mujico@lemmy.world 110 9 Mujico
+0.00 mumbai@lemmy.world 45 6 Mumbai
+0.00 mumble@lemmy.world 30 4 Mumble
+0.00 murderdrones@lemmy.world 58 19 Murder Drones
+0.00 murdermoe@lemmy.world 100 31 MurderMoe
+0.00 murdochalivecheck@lemmy.world 57 40 Is Rupert Murdoch Still Alive?
+0.00 mushrooms@lemmy.world 550 37 Mushrooms
+0.00 musicology@lemmy.world 48 3 Musicology
+0.00 music@skein.city 34 4 Local Music Dump
+0.00 musicvideos@lemmy.world 89 24 Music videos
+0.00 mustang@lemmy.world 69 7 Ford Mustangs fans and owners
+0.00 mwtrealm@lemmy.world 38 19 Mighty Weaksauce Test Realm
+0.00 myfavoritecats@lemmy.world 56 5 myfavoritecats
+0.00 mypicture@lemmy.world 138 8 My Picture
+0.00 mysticism@lemmy.world 76 3 Mysticism
+0.00 mythology@lemmy.world 96 5 Mythology
+0.00 naddpod@lemmy.world 116 11 Not Another DnD Podcast
+0.00 nails@lemmy.world 76 3 Nails
+0.00 nanashi_mumei@lemmy.world 51 29 Nanashi Mumei
+0.00 narcolepsy@lemmy.world 49 3 Narcolepsy
+0.00 nashville@lemmy.world 82 4 Nashville
+0.00 nashvillesc@lemmy.world 53 15 Nashville SC
+0.00 nathanwpyle@lemmy.world 3828 29 Strange Planet by Nathan W. Pyle
+0.00 nativeamerican@lemmy.world 42 3 Native American
+0.00 nature@chat.maiion.com 87 82 c/Nature
+0.00 natures_patterns@lemmy.world 160 21 Nature's Patterns - the beauty in the details
+0.00 nde@lemmy.world 61 11 Near Death Experiences
+0.00 necatmnt@lemmy.world 19 3 NECATMNT
+0.00 neography@lemmy.world 92 22 Neography and Writing systems
+0.00 neoliberal@lemmy.world 189 11 Neoliberal
+0.00 neoplatonism@lemmy.world 56 4 Neoplatonism
+0.00 neptunia@lemmy.world 43 8 Neptunia
+0.00 nerdgeist@lemmy.world 261 16 NerdGeist
+0.00 nerdshit@lemmy.world 53 5 Nerd Shit
+0.00 neurodegdissupport@lemmy.world 76 20 Neurodegenative Disease Support
+0.00 neuro@lemmy.world 203 10 Neuroscience
+0.00 newcastleupontyne@lemmy.world 113 16 Newcastle Upon Tyne: We built this city on sausage rolls
+0.00 newengland@lemmy.world 148 20 New England
+0.00 newjersey@lemmy.world 207 15 New Jersey
+0.00 newmexicounited@lemmy.world 39 5 New Mexico United
+0.00 newmusic@lemmy.world 269 26 New Music
+0.00 newspace@lemmy.world 39 8 NewSpace
+0.00 newyork@lemmy.world 119 3 New York City
+0.00 newzealand@lemmy.world 84 4 New Zealand
+0.00 nextcloud@lemmy.world 237 7 Nextcloud
+0.00 nextdns@lemmy.world 72 3 NextDNS
+0.00 nfl@lemmy.world 3027 128 NFL
+0.00 niccagefans@lemmy.world 51 6 Nicolas Cage Fan Club
+0.00 nightmarefuel@lemmy.world 48 28 Nightmare Fuel
+0.00 nightwing@lemmy.world 42 3 Nightwing
+0.00 nikon@lemmy.world 73 4 Nikon
+0.00 nin@lemmy.world 178 17 Nine Inch Nails
+0.00 nms@lemmy.world 95 11 No Mans Sky
+0.00 noblesilverclub@lemmy.world 46 35 NobleSilverClub
+0.00 nocontext@lemmy.uninsane.org 68 11 No Context
+0.00 noita@lemmy.world 114 5 noita
+0.00 nolapelicans@lemmy.world 51 15 New Orleans Pelicans
+0.00 nomanssky@lemmy.world 2450 91 No Man's Sky
+0.00 nomic@lemmy.world 36 3 nomic
+0.00 nonfiction@lemmy.world 107 5 Nonfiction
+0.00 nonograms@lemmy.world 51 6 Nonograms
+0.00 nonononoyes@lemmy.world 3911 186 nonononoyes
+0.00 nootropics@lemmy.world 131 16 nootropics & friends
+0.00 norge@lemmy.world 908 182 norge
+0.00 norse@lemmy.world 41 5 Norse
+0.00 northcarolina@lemmy.world 184 11 North Carolina
+0.00 northkorea@lemmy.world 43 4 North Korea
+0.00 nosleep@lemmy.world 396 5 NoSleep
+0.00 nostr@lemmy.world 10 8 nostr
+0.00 notesnook@lemmy.world 42 5 Notesnook - Your private note taking space
+0.00 nothing@lemmy.world 91 3 Nothing
+0.00 not_interesting@lemmy.world 312 8 not interesting
+0.00 notinteresting@lemmy.world 136 7 Not interesting...
+0.00 notuspolitics@lemmy.world 29 7 NOTUSpolitics
+0.00 ntfy@discuss.ntfy.sh 278 14 ntfy
+0.00 nuclear@lemmy.world 8 5 Nuclear
+0.00 nycfc@lemmy.world 34 3 New York City FC
+0.00 nyislanders@lemmy.world 50 25 New York Islanders
+0.00 nyknicks@lemmy.world 162 136 NY Knicks
+0.00 nyrangers@lemmy.world 102 10 New York Rangers (NHL)
+0.00 nytconnections@lemmy.world 35 22 NYT Connections
+0.00 nyt@lemmy.amyjnobody.com 59 12 The Daily - New York Times (RSS)
+0.00 oakland@lemmy.world 139 121 Oakland
+0.00 obscuremedia@lemmy.world 414 29 ObscureMedia
+0.00 obsidianmd@lemmy.world 2893 66 ObsidianMD
+0.00 obviousplant@lemmy.world 656 30 obviousplant
+0.00 ocsc@lemmy.world 47 16 Orlando City Soccer Club
+0.00 oddlysatisfying@chat.maiion.com 134 68 c/OddlySatisfying
+0.00 oddlysatisfying@lemmy.world 1702 12 Oddly Satisfying
+0.00 oddlyterrifying@chat.maiion.com 99 38 c/OddlyTerrifying
+0.00 offlinetvgirls@lemmy.world 43 3 OfflinetvGirls
+0.00 okaybuddypersona@lemmy.world 208 25 Ok Buddy Persona
+0.00 okbuddy_genshin@lemmy.world 10 9 Ok Buddy Genshin
+0.00 okbuddyhololive@lemmy.world 78 5 okbuddyhololive
+0.00 okbuddyreiner@lemmy.world 42 15 Titan-Man: Across the Lainah-Verse
+0.00 okbuddyretard@lemmy.world 381 16 OkBuddyRetard
+0.00 okc@lemmy.world 37 3 OKC
+0.00 okcupidfr@lemmy.world 32 16 OkCupidFR
+0.00 oldhammer@lemmy.world 281 71 oldhammer
+0.00 oldios@lemmy.world 69 10 OldiOS - Discover old iDevices
+0.00 oldphotosinreallife@lemmy.world 351 19 OldPhotosInRealLife
+0.00 oldtv@lemmy.world 334 19 Old TV - Not new TV
+0.00 omegaverse@lemmy.world 26 3 Omegaverse World
+0.00 onb@lemmy.world 48 10 Omegle nonsense bot
+0.00 onebag@lemmy.world 102 4 Onebag and Onebag Accessories
+0.00 onelinereviews@lemmy.world 65 3 Reviews in One Line
+0.00 oneliners@lemmy.world 131 6 One Liners
+0.00 onepiece@lemmy.world 357 19 OnePiece
+0.00 oneplus@lemmy.world 110 10 OnePlus Community
+0.00 onewheel@lemmy.world 65 4 Onewheel
+0.00 oobabooga@lemmy.world 163 16 Oobabooga Text Generation
+0.00 opendanknight@lemmy.world 56 22 Open Dank Night
+0.00 opendirectories@lemmy.world 195 7 Open Directories
+0.00 opensource@chat.maiion.com 75 69 c/OpenSource
+0.00 opensuse@lemmy.world 263 7 openSUSE
+0.00 opm@lemmy.world 313 15 One Punch Man
+0.00 opnsense@lemmy.world 257 8 OPNsense
+0.00 orangecounty@lemmy.world 125 15 Orange County California
+0.00 oregoncity@lemmy.world 49 5 Oregon City
+0.00 orphancrushing@lemmy.world 143 4 Orphan Crushing Machine
+0.00 osakalife@lemmy.world 67 13 OsakaLife
+0.00 osakathingstodo@lemmy.world 49 9 Osaka: Things To Do
+0.00 osmand@lemmy.ml 166 4 OpenStreetMap + App = OsmAnd!
+0.00 osr@lemmy.world 429 66 Old School Revival
+0.00 otadtv@lemmy.world 29 7 TV OTA DTV
+0.00 otherworldly@lemmy.world 19 3 otherworldly
+0.00 otome_games@lemmy.world 69 12 Otome
+0.00 otomeisekai@lemmy.world 111 19 Otome Isekai+
+0.00 ottawa@lemmy.world 45 6 Ottawa
+0.00 otters@lemmy.world 235 9 Otters
+0.00 outerwilds@lemmy.world 183 7 Outer Wilds
+0.00 override_shutdown@lemmy.world 69 4 Override Shutdown (a community for stompy robot games)
+0.00 oxygennotincluded@lemmy.world 98 9 Oxygen Not Included
+0.00 painting@lemmy.world 72 3 painting
+0.00 pakistan@lemmy.world 72 9 Pakistan
+0.00 palestine@lemmy.world 58 5 Palestine
+0.00 palia@lemmy.world 60 6 Palia
+0.00 pallascats@lemmy.world 319 23 Pallas Cats
+0.00 paloaltonetworks@lemmy.world 19 4 Palo Alto Networks
+0.00 pamedicalmarijuana@lemmy.world 50 5 PA Medical Marijuana
+0.00 paramore@lemmy.world 41 3 Paramore
+0.00 parkour@lemmy.world 44 3 Parkour
+0.00 parrots@lemmy.world 232 24 Parrots
+0.00 pasdequestionidiote@lemmy.world 117 38 PasDeQuestionIdiote
+0.00 pastandpresentpics@lemmy.world 57 4 Past and present pics
+0.00 pastry@lemmy.world 40 4 Pastry
+0.00 pathfinder@lemmy.ml 79 6 Pathfinder
+0.00 pathtonowhere@lemmy.world 47 28 Path to Nowhere
+0.00 paydaytheheist@lemmy.world 75 5 PAYDAY: The Heist | PAYDAY 2 | PAYDAY 3
+0.00 pbta@lemmy.world 52 6 PbtA: For all PbtA games and spinoffs
+0.00 pcgaming@lemmy.world 2977 70 PCGaming
+0.00 pchandhelds@lemmy.world 229 3 PC Handhelds
+0.00 pcmasterrace@lemmy.world 10740 108 PC Master Race
+0.00 penguin@lemmy.world 39 3 Penguins
+0.00 penguins@lemmy.world 110 9 Pittsburgh Penguins
+0.00 pennyarcade@lemmy.amyjnobody.com 58 45 Penny Arcade (RSS)
+0.00 pentesting@lemmy.world 360 5 Pentesting
+0.00 perpetuallystew@lemmy.world 60 10 Perpetually Stewed
+0.00 persona@lemmy.world 102 3 PERSoNA
+0.00 petrats@lemmy.world 252 59 Pet Rats
+0.00 pfsense@lemmy.world 204 5 pfsense
+0.00 phalanxed@lemmy.world 28 3 Phalanxed
+0.00 philadelphia@lemmy.world 289 29 Philadelphia
+0.00 philippines@lemmy.world 1325 1056 Philippines
+0.00 phillies@lemmy.world 191 120 Philadelphia Phillies
+0.00 phillyunion@lemmy.world 44 7 Philadelphia Union
+0.00 philosophy@lemmy.world 742 27 Philosophy
+0.00 phoenix@lemmy.world 118 6 Phoenix Arizona
+0.00 phonk@lemmy.world 11 3 PHONK
+0.00 photography@lemmy.world 3030 153 Photography
+0.00 photos@lemmy.world 426 15 Photos
+0.00 php@lemmy.world 288 9 PHP
+0.00 pianodiscussion@lemmy.world 47 3 Piano Discussion Forum
+0.00 piano@lemmy.world 224 19 Piano And Keyboards
+0.00 pickleball@lemmy.world 73 14 Pickleball
+0.00 pigs@lemmy.world 62 9 Pigs
+0.00 pikabu@lemmy.world 97 15 Pikabu
+0.00 pikmin@lemmy.world 169 31 Pikmin
+0.00 pillow_talk@lemmy.world 70 24 The Cool Side of the Pillow
+0.00 pipesmoking@lemmy.world 100 21 Pipe Smoking
+0.00 pitbulls@lemmy.world 61 4 Pitbulls
+0.00 pittsburgh@lemmy.world 247 12 Pittsburgh, PA
+0.00 pixeldungeon@lemmy.world 214 25 Pixel Dungeon
+0.00 pizza@lemmy.world 679 21 Pizza
+0.00 plaintextaccounting@lemmy.world 93 3 Plain Text Accounting
+0.00 playstationplus@lemmy.world 238 10 PlayStation Plus
+0.00 playstationtrophies@lemmy.world 74 6 Trophies
+0.00 plottwist@lemmy.world 40 4 PlotTwist Stories!
+0.00 plumbing@lemmy.world 120 10 Plumbing
+0.00 pnw@lemmy.world 1295 65 Pacific Northwest - OR,WA,BC
+0.00 pnw_natives@lemmy.world 59 3 PNW Natives
+0.00 pocketknife@lemmy.world 194 11 PocketKNIFE
+0.00 pokemoncards@lemmy.world 118 12 Pokemon Cards
+0.00 pokemongo@lemmy.world 396 19 pokemongo
+0.00 pokemonmemes@lemmy.world 74 5 Pokemon Memes
+0.00 pokemonromhacks@lemmy.world 244 10 PokemonROMHacks
+0.00 polarfitness@lemmy.world 31 5 Polar Fitness
+0.00 polaroid@lemmy.world 22 7 Instant Photography
+0.00 polestar@lemmy.world 70 8 Polestar
+0.00 politicalhumor@lemmy.world 315 15 Political Humor
+0.00 popculturechat@lemmy.world 20 7 Pop Culture Chat
+0.00 poppunk@lemmy.world 101 20 Pop Punk
+0.00 portugal@lemmy.world 69 3 Portugal @ World
+0.00 postapocalypse@lemmy.world 50 4 post-apocalypse
+0.00 postgresql@lemmy.world 107 10 PostgreSQL
+0.00 postpunk@lemmy.world 181 47 Post Punk
+0.00 potatoism@lemmy.world 109 12 Potatoism
+0.00 pottery@lemmy.world 322 16 Pottery
+0.00 pouterpigeons@lemmy.world 31 3 Pouter Pigeons
+0.00 pozilei@lemmy.world 54 10 pozilei
+0.00 predecessor@lemmy.world 30 4 Predecessor by Omeda Studios (a Paragon revival)
+0.00 prepperintel@lemmy.world 60 7 PrepperIntel - Intelligence reports from preppers around the world
+0.00 prequelmemes@lemmy.world 330 15 Prequel Memes
+0.00 presidents@lemmy.world 69 22 Presidents
+0.00 pretty_women@lemmy.world 1057 94 pretty_women
+0.00 printsf@lemmy.world 791 14 Science Fiction & Fantasy literature
+0.00 privacycoins@lemmy.world 44 3 Privacy Coins
+0.00 privacy@lemmy.world 1504 129 Privacy
+0.00 procreate_art@lemmy.world 78 6 Procreate Art
+0.00 procycling@lemmy.world 389 63 procycling
+0.00 productivity@lemmy.world 772 12 Productivity
+0.00 programmeranimemes@lemmy.world 156 3 Programmer Animemes
+0.00 programmerhumor@lemmy.world 860 21 Programmer Humor
+0.00 programminghumor@lemmy.world 1775 34 Programming Humor
+0.00 progressivepolitics@lemmy.world 296 14 Progressive Politics
+0.00 projectfear@lemmy.world 31 5 ProjectFear
+0.00 projectzomboid@lemmy.world 147 7 Project Zomboid
+0.00 prolific@lemmy.world 33 5 Prolific Studies
+0.00 promotecommunity@lemmy.world 48 6 Promote a Community
+0.00 proquotes@lemmy.world 51 6 Programming Quotes
+0.00 proxmox@lemmy.world 609 15 Proxmox
+0.00 ps2@lemmy.world 153 3 Playstation 2
+0.00 ps3piracy@lemmy.world 39 3 PS3 Piracy
+0.00 psg@lemmy.world 31 3 psg
+0.00 psvr@lemmy.world 343 37 Playstation VR and PSVR2
+0.00 psychology@lemmy.world 79 3 Psychology
+0.00 pulsechain@lemmy.world 31 6 PulseChain
+0.00 pumparum@lemmy.world 39 5 Pumparum
+0.00 purism@lemmy.world 34 4 purism
+0.00 pwp@lemmy.world 19 6 PWP
+0.00 pyrography@lemmy.world 60 7 Pyrography Arts
+0.00 qtile@feddit.de 22 3 Qtile
+0.00 quackers@lemmy.world 751 52 ducks
+0.00 quake@lemmy.world 142 21 Quake
+0.00 quantumimmortality@lemmy.world 37 3 The Quantum Immortality Community
+0.00 qubesos@lemmy.world 40 14 Qubes OS
+0.00 que@lemmy.amyjnobody.com 52 23 DrQue.Net (RSS)
+0.00 quilting@lemmy.world 201 12 Quilting
+0.00 rabbits@lemmy.world 230 16 Rabbits
+0.00 raccoons@lemmy.world 983 43 Raccoons
+0.00 radiology@lemmy.world 535 76 Radiology
+0.00 ragecomics@lemmy.world 65 8 /c/RageComics: Because it’s still 2011 here
+0.00 raleigh@lemmy.world 145 7 Raleigh
+0.00 randomanimeshit@lemmy.pipipopo.pl 80 7 #randomanimeshit
+0.00 rareinsults@lemmy.world 818 9 Rare insults
+0.00 rarepepes@lemmy.world 82 6 Rare Pepes
+0.00 rarepuppers@lemmy.world 146 7 RarePuppers (eerily similar to that other one).
+0.00 rawblackmetal@lemmy.world 83 14 Underground Raw Black Metal
+0.00 rays@lemmy.world 49 5 Tampa Bay Rays
+0.00 rc_cars@lemmy.world 226 11 RC Cars
+0.00 rccars@lemmy.world 72 6 RC Cars
+0.00 rct@lemmy.world 169 17 RCT
+0.00 reactiongifs@lemmy.world 128 5 Reactiongifs
+0.00 realgbtq@lemmy.world 228 19 Real LGBTQ
+0.00 reallyshittycopper@lemmy.world 236 11 Really Shitty Copper
+0.00 realmadrid@lemmy.world 67 39 Real Madrid
+0.00 realsaltlake@lemmy.world 38 9 Real Salt Lake
+0.00 realsweatypalms@lemmy.world 158 5 Real Sweaty Palms
+0.00 realtesla@lemmy.world 238 56 RealTesla
+0.00 realtightdresses@lemmy.world 51 4 Tight Dresses
+0.00 rebubble@lemmy.world 123 15 REBubble
+0.00 reclaimedbynature@lemmy.world 2222 91 Reclaimed By Nature
+0.00 recommendations@lemmy.world 400 28 Recommendations
+0.00 reddead@lemmy.world 114 10 Red Dead
+0.00 reddit@lemmy.world 13762 384 Reddit
+0.00 reddwarf@lemmy.world 80 4 Red Dwarf
+0.00 redneckengineering@lemmy.world 156 5 Redneck Engineering
+0.00 redpandas@lemmy.world 53 7 Red Pandas
+0.00 redscare@lemmy.world 48 5 Red Scare
+0.00 reggae@lemmy.world 162 122 Reggae
+0.00 reign_fc@lemmy.world 40 31 ReignFC
+0.00 relatedcommunities@lemmy.world 99 7 Related Communities
+0.00 relationship_advice@lemmy.world 1430 10 Relationship Advice
+0.00 religion@lemmy.world 143 24 Religion
+0.00 remixed@lemmy.world 42 8 Cool Remixed Music to Share
+0.00 repaintings@lemmy.world 115 10 repaintings
+0.00 republicanjesus@lemmy.world 218 13 Republican Jesus
+0.00 retailhell@lemmy.world 30 4 Retail Hell
+0.00 retailporn@lemmy.world 62 7 Retail Porn
+0.00 retrocomputers@lemmy.world 805 21 Retro Computers
+0.00 retro@lemmy.world 425 9 Retro Gaming
+0.00 reuse@lemmy.world 286 18 Reuse, refurbish, reinvent
+0.00 revanced@lemmy.world 643 14 ReVanced App
+0.00 reverseengineering@lemmy.world 190 5 Reverse Engineering
+0.00 re_zero@lemmy.world 40 12 re_zero
+0.00 rhcp@lemmy.world 60 9 Red Hot Chili Peppers
+0.00 rhldshack@lemmy.fmhy.net 60 4 the rhldshack
+0.00 rhodesianridgebacks@lemmy.world 40 4 Rhodesian Ridgebacks
+0.00 riscv@lemmy.world 99 5 RiscV
+0.00 rivalsofaether@lemmy.world 38 4 Rivals of Aether
+0.00 roadcam@lemmy.world 114 15 Road Cam
+0.00 roadcycling@lemmy.world 15 6 Road Cycling
+0.00 roadguyrob@lemmy.world 47 7 Road Guy Rob
+0.00 rocketleague@lemmy.world 387 12 Rocket League
+0.00 rockhopper@lemmy.world 23 6 rockhopper
+0.00 rog_ally@lemmy.world 86 7 ASUS ROG Ally
+0.00 roguelikedev@lemmy.world 74 4 roguelikedev
+0.00 roguelikes@lemmy.world 163 4 Roguelike Games
+0.00 rolereversal@lemmy.world 76 7 rolereversal
+0.00 rollerblading@lemmy.world 67 5 Rollerblading
+0.00 rollerskating@lemmy.world 54 3 Rollerskating
+0.00 romania@lemmy.world 113 4 Romania
+0.00 roomba@lemmy.world 94 5 Roomba
+0.00 rpg_brasil@lemmy.world 99 11 RPG Brasil
+0.00 rssfeeds@lemmy.world 346 10 Rss Feeds Recs
+0.00 rugbyunion@lemmy.world 74 5 RugbyUnion
+0.00 runescape@lemmy.world 195 17 RuneScape
+0.00 rural@lemmy.world 165 6 Rural Living
+0.00 russianblue@lemmy.world 77 5 Russian Blue Cats
+0.00 russie@lemmy.world 24 7 Russie
+0.00 rustgame@lemmy.world 43 16 RustGame
+0.00 ruudtipsmusic@lemmy.world 40 4 Ruud Tips Music
+0.00 rva@lemmy.world 104 9 All about Richmond, VA USA
+0.00 rvs@lemmy.world 42 4 Recreational Vehicles
+0.00 ryobi@lemmy.world 59 4 Ryobi
+0.00 sable_game@lemmy.world 32 3 Sable
+0.00 sacramento@lemmy.world 106 8 Sacramento
+0.00 sailing@lemmy.world 646 61 Sailing
+0.00 sailormoon@lemmy.world 76 4 sailormoon
+0.00 saints@lemmy.world 53 12 New Orleans Saints
+0.00 salesforce@lemmy.world 76 3 Salesforce
+0.00 saltier_than_crait@lemmy.world 54 4 Saltier than Crait
+0.00 saltlakecity@lemmy.world 35 3 Salt Lake City
+0.00 samharris@lemmy.world 59 5 Sam Harris
+0.00 samsungs23@lemmy.world 77 5 Samsung S23
+0.00 sanantonio@lemmy.world 118 41 San Antonio
+0.00 sandiego@lemmy.world 284 28 San Diego
+0.00 sanjose@lemmy.world 61 3 San Jose
+0.00 santacruz@lemmy.world 54 3 Santa Cruz
+0.00 sasunaru@lemmy.world 36 4 SasuNaru HQ
+0.00 satanism@lemmy.world 226 9 Satanism
+0.00 savannah@lemmy.world 43 4 Savannah, GA
+0.00 savatage@lemmy.world 33 4 Savatage
+0.00 saynotogroomers@rammy.site 26 14 Say No to Groomers
+0.00 sbubby@lemmy.world 1399 96 Sbubby
+0.00 scamnumbers@lemmy.world 47 3 ScamNumbers
+0.00 schizoaffective@lemmy.world 39 3 schizoaffective
+0.00 schnauzers@lemmy.world 60 5 Schnauzers
+0.00 schoolbuses@lemmy.world 33 3 School Buses
+0.00 science@lemmy.world 8798 155 science
+0.00 scotch@lemmy.world 85 4 Scotch
+0.00 scotland@lemmy.world 219 42 Scotland
+0.00 scp@lemmy.world 235 9 SCP
+0.00 scrungycats@lemmy.world 199 11 scrungycats
+0.00 scuba@lemmy.world 132 6 scuba
+0.00 seahawks@lemmy.world 25 3 Seahawks
+0.00 seals@lemmy.world 62 6 Seals
+0.00 seaofthieves@lemmy.world 114 11 Sea of Thieves
+0.00 secops@lemmy.world 226 68 Security Operations
+0.00 securityarchitecture@lemmy.world 67 8 Security Architecture
+0.00 segagenesis@lemmy.world 65 6 segagenesis
+0.00 seinfeld@lemmy.world 919 18 Seinfeld
+0.00 selfhelp@lemmy.world 43 4 Self Help
+0.00 seltzer_addicts@lemmy.world 313 18 Seltzer Addicts
+0.00 semiconductors@lemmy.world 103 13 Semiconductors
+0.00 seo@lemmy.world 67 13 SEO | Search Engine Optimization
+0.00 serfs_up@lemmy.world 95 13 Serfs Up
+0.00 sffpc@lemmy.world 966 25 SFF PC
+0.00 sheetmusic@lemmy.world 66 9 Sheet Music and Tabulature
+0.00 shid_and_camed@lemmy.world 41 9 Shid_and_Camed
+0.00 shiftingrealities@lemmy.world 37 6 Shifting Realities
+0.00 shihtzu@lemmy.world 56 9 Shih Tzu
+0.00 shingekinokyojin@lemmy.world 62 8 Shingeki No Kyojin (Attack on Titan)
+0.00 shinobi@lemmy.world 35 4 Shinobi CCTV
+0.00 shitpostcrusaders@lemmy.world 108 12 JoJo bizarre adventure memes galore
+0.00 shitpost_hisp@lemmy.world 13 11 ShitpostÑ
+0.00 shitposting@lemmy.world 62 6 Shitposting
+0.00 shit_roommates_say@lemmy.world 154 6 Shit Roommates Say
+0.00 shittycarmods@lemmy.world 920 25 Shitty Car Mods
+0.00 shittydarksouls@lemmy.world 239 17 ShittyDarkSouls
+0.00 shittymoviedetails@lemmy.world 846 24 Shitty Movie Details
+0.00 shoegaze@lemmy.world 277 22 Shoegaze
+0.00 shoestring@lemmy.world 124 11 Shoestring Travel
+0.00 shrooms@lemmy.world 707 21 Shrooms
+0.00 simpleliving@lemmy.world 192 3 Simple Living
+0.00 simutrans@lemmy.world 96 8 Simutrans — Free and Open Source Transportation Simualtor
+0.00 singapore@lemmy.world 357 57 Almost anything regarding Singapore
+0.00 singularity@lemmy.world 149 34 Singularity
+0.00 sizz@lemmy.world 85 17 Sizz Culture
+0.00 skateboarding@lemmy.world 165 10 Skateboarding
+0.00 skepticism@lemmy.world 32 4 Skepticism (Pyrrhonism)
+0.00 skiing@lemmy.world 143 10 Skiing
+0.00 skunks@lemmy.world 94 13 Skunks
+0.00 skyrim@lemmy.world 659 17 Skyrim
+0.00 skyrimmods@lemmy.world 1779 62 Skyrim Mods
+0.00 slackernews@lemmy.world 86 44 Slacker News
+0.00 slatestarcodex@lemmy.world 55 6 Starslatecodex
+0.00 sliceoflifeanime@lemmy.world 159 63 Slice of Life Anime
+0.00 slovakia@lemmy.world 69 10 Slovakia - Slovensko - Σλοβακία - Словаччина - スロバキア -स्लोवाकिया - اسلواکی
+0.00 slovenija@lemmy.world 55 12 Slovenija
+0.00 smashbros@lemmy.world 598 21 Super Smash Bros
+0.00 smbc@lemmy.amyjnobody.com 60 45 Saturday Morning Breakfast Cereal (RSS)
+0.00 smol_dogs@lemmy.world 1529 55 IllegallySmolDogs
+0.00 snakes@lemmy.world 81 29 Snakes
+0.00 snakeswithhats@lemmy.world 104 13 Snakes with Hats.world - Serpentine millinery
+0.00 snap@lemmy.world 106 7 Marvel Snap
+0.00 sneakerdeals@lemmy.world 55 3 Sneaker Deals
+0.00 sneakers@lemmy.world 76 5 Sneakers
+0.00 snek@lemmy.world 32 3 Snek
+0.00 snl@lemmy.world 54 12 Saturday Night Live
+0.00 socalhiking@lemmy.world 60 11 Southern California Hiking
+0.00 soccer@lemmy.world 81 8 Soccer
+0.00 software@lemmy.world 55 3 Software
+0.00 softwareoptions@lemmy.world 784 47 Software recommendations
+0.00 sogonhuman@lemmy.world 51 19 sogonthedragon | sogon comics
+0.00 solardiy@lemmy.world 197 8 SolarDIY
+0.00 somethingimade@lemmy.world 327 7 Something I Made
+0.00 songaweek@lemmy.world 52 5 Song-a-week
+0.00 song_hijacks_my_brain@lemmy.world 18 11 Song hijacks my brain
+0.00 songsforthedekaday@lemmy.world 33 3 songs for the dekaday
+0.00 sonyxperia@lemmy.world 92 4 Sony Xperia
+0.00 sooners@lemmy.world 47 13 Oklahoma Sooners
+0.00 soundcloud_gems@lemmy.world 96 89 Electronic Gems
+0.00 soundersfc@lemmy.world 111 47 Seattle Sounders FC
+0.00 sourdough@lemmy.world 758 39 Sourdough baking
+0.00 southjersey@lemmy.world 41 4 South Jersey
+0.00 southpark@lemmy.world 244 5 South Park
+0.00 southparkmemes@lemmy.world 573 32 South Park Memes
+0.00 soyjak@lemmy.world 37 4 soyjak
+0.00 spaceballs@lemmy.world 204 6 Spaceballs
+0.00 spaceengineers@lemmy.world 124 8 Space Engineers - Engineer your way through space!
+0.00 spacetelescopes@lemmy.world 74 7 Space Telescopes
+0.00 spacex@lemmy.world 121 4 SpaceX
+0.00 spain@lemmy.world 278 6 All things Spain
+0.00 spanish@lemmy.world 113 4 Spanish
+0.00 speedrunning@lemmy.world 105 5 Speedrunning!
+0.00 spelunky@lemmy.world 35 3 spelunky
+0.00 spicykittens@lemmy.world 137 5 Spicy Kittens
+0.00 spicypillows@lemmy.world 278 13 Spicy Pillows
+0.00 spiderverse@lemmy.world 184 12 Spider-Man
+0.00 splitmechkeyboards@lemmy.world 54 8 SplitMechKeyboards
+0.00 spokane@lemmy.world 72 6 Spokane
+0.00 sport_wrestling@lemmy.world 46 11 Sport Wrestling
+0.00 springfieldor@lemmy.world 43 3 Springfield, Oregon
+0.00 spyro@lemmy.world 36 3 Spyro
+0.00 spyrothedragon@lemmy.world 34 6 Spyro The Dragon
+0.00 spyxfamily@lemmy.world 63 9 SPY×FAMILY
+0.00 sqlite@lemmy.world 52 12 SQLite
+0.00 sql@lemmy.world 225 8 SQL - any and all
+0.00 srilanka@lemmy.world 43 8 Sri Lanka
+0.00 ssbm@lemmy.world 144 20 SSBM
+0.00 stalker@lemmy.world 114 10 S.T.A.L.K.E.R.
+0.00 standardissuecat@lemmy.world 402 25 Standard Issue Cat
+0.00 starcitizen@lemmy.world 134 10 Star Citizen
+0.00 starcraft@lemmy.world 176 17 StarCraft
+0.00 stardewhomedesign@lemmy.world 109 3 StardewHomeDesign
+0.00 startpage@lemmy.world 46 10 startpage
+0.00 startrek@lemmy.world 338 46 Star Trek
+0.00 starwars@chat.maiion.com 64 36 c/StarWars
+0.00 starwarsdadjokes@lemmy.world 63 3 StarWarsDadJokes
+0.00 starwarsempireatwar@lemmy.world 52 6 Star Wars Empire At War
+0.00 starwarstelevision@lemmy.world 102 6 Star Wars Television
+0.00 stationwagons@lemmy.world 75 35 Station Wagons
+0.00 steaminput@lemmy.world 140 7 Steam Input & Steam Controller
+0.00 steelers@lemmy.world 138 10 Pittsburgh Steelers
+0.00 stevewallis@lemmy.world 65 7 Steve Wallis
+0.00 stlblues@lemmy.world 97 13 St. Louis Blues
+0.00 stlouis@lemmy.world 126 6 St. Louis, MO | Gateway to the West
+0.00 stockholm@lemmy.world 72 21 Stockholm
+0.00 stocks@lemmy.world 502 44 Stocks
+0.00 stoicism@lemmy.world 468 19 Stoicism
+0.00 stoneage@lemmy.world 56 3 Stone Age
+0.00 stonermetal@lemmy.world 54 3 stonermetal
+0.00 stormgate@lemmy.world 165 13 Stormgate
+0.00 stormlight_archive@lemmy.world 114 5 Stormlight Archive
+0.00 strangetimes@lemmy.world 326 43 Strange Times
+0.00 streetfighter@lemmy.world 517 28 Street Fighter
+0.00 stupidpol@lemmy.world 61 4 StupIDPol
+0.00 stupidquestions@lemmy.world 46 4 stupidquestions
+0.00 subnautica@lemmy.world 278 7 Subnautica
+0.00 suisse@lemmy.world 88 11 Suisse
+0.00 summittestcommunity@lemmy.world 44 9 summittestcommunity
+0.00 suns@lemmy.world 67 5 Phoenix Suns
+0.00 superbowl@lemmy.world 795 30 Superbowl
+0.00 superman@lemmy.world 90 5 Superman
+0.00 superpowers_chat@lemmy.world 52 6 Superpowers
+0.00 support@laguna.chat 75 3 Support
+0.00 survivalshows@lemmy.world 54 11 Survival Shows
+0.00 survivor@lemmy.world 72 16 Survivor
+0.00 suspiciouslyspecific@lemmy.world 376 3 Suspiciously Specific
+0.00 sustainability@lemmy.world 185 5 sustainability
+0.00 sverige@lemmy.world 209 9 Sverige
+0.00 swedishproblems@lemmy.world 123 3 Swedish Problems
+0.00 swift@lemmy.world 139 4 Swift - Development for Apple Platforms
+0.00 swiftui@lemmy.world 70 6 SwiftUI
+0.00 swingdancing@lemmy.world 52 6 swing & things
+0.00 switchpirates@lemmy.world 147 3 SwitchPirates
+0.00 switchroot@lemmy.world 98 9 SwitchRoot
+0.00 switzerland@lemmy.world 105 3 switzerland
+0.00 swrpg@lemmy.world 64 7 Star Wars RPG
+0.00 swtor@lemmy.world 133 5 Star Wars: The Old Republic
+0.00 Synchronicities@lemmy.world 32 6 Synchronicities
+0.00 synthpunk@lemmy.world 13 4 Synth Punk
+0.00 synthrock@lemmy.world 108 39 SynthRock Music
+0.00 sysadmin@lemmy.world 5513 70 Sysadmin
+0.00 tabletopminis@lemmy.world 1281 109 Tabletop Miniatures
+0.00 tacoma_gardening@fernchat.esotericmonkey.com 67 6 Tacoma Gardening
+0.00 tacoma@lemmy.world 59 3 Tacoma
+0.00 tailscale@lemmy.world 71 4 Tailscale
+0.00 tamil@lemmy.world 31 4 தமிழ்
+0.00 tamilnadu@lemmy.world 37 5 TamilNadu
+0.00 tankiejerk@lemmy.world 154 12 Tankiejerk
+0.00 taoism@lemmy.world 213 29 Daoism (Taoism) 道教
+0.00 tarantulas@lemmy.world 53 6 Tarantulas
+0.00 tattletaletimes@lemmy.world 17 4 Tattletale Times
+0.00 tattoo@lemmy.world 107 7 Tattoo
+0.00 taylorswiftmemes@lemmy.world 40 5 youbelongwithmemes
+0.00 tbbuccaneers@lemmy.world 43 3 Tampa Bay Buccaneers
+0.00 tcl@lemmy.world 37 5 Tcl
+0.00 teachers@lemmy.world 98 6 Teachers
+0.00 teamfighttactics@lemmy.world 71 4 TeamFightTactics
+0.00 techhaven@lemmy.world 37 3 Tech Haven
+0.00 technicallythetruth@lemmy.world 209 6 technically the truth
+0.00 techno@feddit.de 92 45 Techno
+0.00 techno@lemmy.world 47 7 Techno
+0.00 teenagers@lemmy.world 85 8 Teenagers
+0.00 teeth@lemmy.world 43 4 Teeth
+0.00 tennis_fans@lemmy.world 55 7 Tennis Fans
+0.00 terraform@lemmy.world 98 6 Terraform
+0.00 tesla@lemmy.world 1054 146 Tesla
+0.00 test5677754@lemmy.world 62 34 Test
+0.00 test@sub.wetshaving.social 65 3 test
+0.00 testuser@lemmy.world 51 8 Test for Lemmy.World
+0.00 texasteachers@lemmy.world 46 6 Texas Teachers
+0.00 tf2@lemmy.world 623 146 Team Fortress 2
+0.00 tf2shitposterclub@lemmy.world 102 22 Team Fortress 2 Shitposter Club
+0.00 tgz@lemmy.world 46 3 The Garagenous Zone
+0.00 thatlookedexpensive@lemmy.world 353 5 That Looked Expensive
+0.00 thebandghost@lemmy.world 58 6 Unofficial community for the band Ghost
+0.00 thebrewery@lemmy.world 67 4 The Brewery
+0.00 thechurchofthesubgenius@lemmy.world 27 4 The Church of the SubGenius
+0.00 thecity@skein.city 35 8 The City
+0.00 thedreadnoughts@lemmy.world 39 4 The Dreadnoughts
+0.00 theeohsees@lemmy.world 36 7 Thee Oh Sees
+0.00 theexpanse@lemmy.world 351 10 The Expanse
+0.00 thegame@lemmy.world 39 6 The Game
+0.00 the_gamer_tavern@lemmy.world 26 4 The Gamer's Tavern
+0.00 thegoodplace@lemmy.world 201 6 The Good Place
+0.00 thegrandtour@lemmy.world 282 8 The Grand Tour
+0.00 theguardiantemple@lemmy.world 36 10 The Guardian Temple
+0.00 theism@lemmy.world 52 4 theism
+0.00 thelastofus@lemmy.world 146 6 The Last of Us
+0.00 thelema@lemmy.world 62 3 Thelema
+0.00 thementalist@lemmy.world 61 21 The Mentalist
+0.00 theoldtimesmichigan@lemmy.world 13 10 The Old Times Michigan
+0.00 theonionrouter@lemmy.world 63 5 Tor
+0.00 theorville@lemmy.world 87 6 The Orville
+0.00 theowlhouse@lemmy.world 362 37 The Owl House
+0.00 the_pack@lemmy.world 1241 62 THE_PACK
+0.00 thepoliceproblem@lemmy.world 200 169 The Police Problem
+0.00 therapy@lemmy.world 163 11 Therapy
+0.00 the_refrigerator@lemmy.world 175 13 The Refrigerator
+0.00 thesimpsons@lemmy.world 726 22 The Simpsons
+0.00 theticket@lemmy.world 37 5 A Community for KTCK The Ticket P1s and V1s
+0.00 thevoidz@lemmy.world 40 8 The Voidz
+0.00 thewalkingdead@lemmy.world 62 3 The walking dead
+0.00 thewitcher@lemmy.world 475 15 The Witcher
+0.00 thingswerebetter@lemmy.world 93 28 Things Were Better
+0.00 thinkpolitics@lemmy.world 11 3 Think Politics
+0.00 thisamericanlife@lemmy.world 81 24 This American Life
+0.00 thrashmetal@lemmy.world 62 16 Thrash Metal
+0.00 thrawn@lemmy.world 54 9 Thrawn - for our favorite Grand Admiral
+0.00 threads@lemmy.world 29 4 Threads
+0.00 thrifty@lemmy.world 486 21 Thrifty
+0.00 thunderbird@lemmy.world 575 14 Thunderbird
+0.00 tifu@lemmy.world 6698 15 TIFU
+0.00 tihi@lemmy.world 426 11 Thanks, I Hate It!
+0.00 tiktokcringe@lemmy.world 358 17 TiktokCringe - The Best and Worst Of TikTok
+0.00 tiktok@lemmy.world 105 7 TikTok
+0.00 tildes@lemmy.world 55 4 Tildes
+0.00 timepiece@lemmy.world 72 4 Timepieces
+0.00 titanfall@lemmy.world 212 40 Titanfall
+0.00 tjpw@lemmy.world 84 12 TJPW: Tokyo Joshi Pro Wrestling
+0.00 tkmiz@lemmy.world 45 13 Tsukumizu
+0.00 tldrbot@lemmy.world 77 8 tl;dr bot discussion
+0.00 tmobileus@lemmy.world 176 16 T-Mobile US Unofficial Lemmy Community
+0.00 todayilearned@chat.maiion.com 951 521 c/TodayILearned
+0.00 tokipona@lemmy.world 105 13 toki pona
+0.00 tolkien@lemmy.world 741 27 Tolkien, Lord of the Rings (LotR) & more
+0.00 tonightsdinner@lemmy.world 114 6 tonightsdinner
+0.00 toolband@lemmy.world 187 6 Tool
+0.00 toonamifaithful@lemmy.world 37 10 Toonami Faithful
+0.00 top5@lemmy.world 101 6 Top 5
+0.00 tor@lemmy.world 36 3 Tor
+0.00 torontoraptors@lemmy.world 178 23 Toronto Raptors
+0.00 totallynotrobots@lemmy.world 319 19 TOTALLY NO ROBOTS HERE JUST US HUMANS
+0.00 total_war@lemmy.world 94 4 Total War
+0.00 totk@lemmy.world 2075 51 The legend of Zelda: Tears of the kingdom
+0.00 totkmods@lemmy.world 317 14 Zelda: Tears of the Kingdom Modding
+0.00 touchfluffytail@lemmy.world 86 15 touchfluffytail
+0.00 touhou@lemmy.world 102 56 Touhou Project
+0.00 toycameras@lemmy.world 20 7 Toy Cameras
+0.00 toy_photography@lemmy.world 64 8 Toy Photography
+0.00 tplink_omada@lemmy.world 74 5 TP-Link Omada
+0.00 trackmania@lemmy.world 535 84 TrackMania
+0.00 traderjoes@lemmy.world 190 4 Trader Joe's Unofficial
+0.00 trailerparkboys@lemmy.world 95 6 Trailer Park Boys
+0.00 trailrunningpictures@lemmy.world 61 6 Trail Running Pictures
+0.00 train@lemmy.world 60 4 trains
+0.00 transformers@lemmy.world 162 16 Transformers
+0.00 transit@lemmy.world 76 3 Transit
+0.00 trashpandas@lemmy.world 79 10 Trash Pandas
+0.00 treelaw@lemmy.world 81 8 Tree Law
+0.00 treemusic@lemmy.world 67 25 Treemusic
+0.00 trees@lemmy.world 4900 161 Trees
+0.00 triad@lemmy.world 38 4 Triad, NC
+0.00 triumph@lemmy.world 58 4 Triumph
+0.00 tron@lemmy.world 53 5 The Grid
+0.00 trucksim@lemmy.world 69 7 Truck Simulators
+0.00 truecrime@lemmy.world 374 16 True Crime
+0.00 truefilm@lemmy.world 99 3 TrueFilm: An in-depth discussion of film
+0.00 trueneutral@lemmy.world 1620 18 fuck u/spez
+0.00 trust@lemmy.world 34 5 The Trust Network
+0.00 trypophobia@lemmy.world 61 10 Trypophobia
+0.00 tsuki_games@lemmy.world 41 8 Tsuki Adventure and Odyssey
+0.00 ttrpg@lemmy.world 158 4 RPG
+0.00 tumblr@lemmy.world 1048 85 Tumblr
+0.00 turnbasedstrategy@lemmy.world 159 8 Turn Based Strategy
+0.00 turntables@lemmy.world 83 5 Turntables
+0.00 tvnews@lemmy.world 129 21 TV News
+0.00 tvplus@lemmy.world 314 33 Apple TV+ Community
+0.00 tvtoohigh@lemmy.world 86 7 TV Too High
+0.00 twice@lemmy.world 77 13 Twice
+0.00 twilight_imperium@lemmy.world 39 6 Twilight Imperium
+0.00 twinpeaks@lemmy.world 193 6 Twin Peaks
+0.00 typescript@lemmy.world 211 6 TypeScript
+0.00 typewriterrevolution@lemmy.world 45 4 Typewriter Revolution
+0.00 tyranny_of_dragons@lemmy.world 55 5 Tyranny of Dragons
+0.00 uap@lemmy.world 347 64 UAP - The Most Active Community for UAPs/UFOs
+0.00 ubereatsdrivers@lemmy.world 42 3 Uber
+0.00 uber@lemmy.world 35 3 Uber Lemmy Community
+0.00 udel@lemmy.world 29 5 udel
+0.00 ufos@lemmy.world 2089 105 UFOs
+0.00 ukhiphop@lemmy.world 86 47 UK Hip-Hop | British Hip-Hop | UK Rap
+0.00 ukpolitics@lemmy.world 73 4 UK Politics
+0.00 ukrainianconflict@lemmy.world 501 30 Ukrainian Conflict
+0.00 ukulele@lemmy.world 89 5 Ukulele
+0.00 ultracycling@lemmy.world 13 3 Ultra-distance cycling
+0.00 ultraman@lemmy.world 27 12 Ultraman
+0.00 ultramarathon@lemmy.world 70 5 Ultramarathon
+0.00 umpc@lemmy.world 45 3 UMPC - Handheld and palmtop computing
+0.00 umwelt@lemmy.world 41 4 Umwelt, Klima und Co
+0.00 unbgbbiivchidctiicbg@lemmy.world 90 6 UNBGBBIIVCHIDCTIICBG
+0.00 undergroundhiphop@lemmy.world 75 19 Underground Hip-Hop
+0.00 underground@lemmy.world 28 3 underground
+0.00 undertale@lemmy.world 227 13 Undertale
+0.00 unethicallifeprotips@lemmy.world 3322 23 Unethical Life Pro Tips
+0.00 universalparks@lemmy.world 57 10 Universal Theme Parks & Resorts
+0.00 unixporn@lemmy.world 1706 36 unixporn
+0.00 unsolvedmysteries@lemmy.world 646 25 Unsolved Mysteries
+0.00 uruguay@lemmy.world 49 4 Uruguay
+0.00 usenet@lemmy.world 1283 39 Usenet
+0.00 usl_championship@lemmy.world 53 11 USL Championship
+0.00 usmobile@lemmy.world 69 5 US Mobile | The next generation wireless network
+0.00 usnews@civilloquy.com 17 15 US News
+0.00 uspolitics@lemmy.world 432 16 USpolitics
+0.00 ussoccer@lemmy.world 315 101 ussoccer
+0.00 utahjazz@lemmy.world 85 8 Utah Jazz
+0.00 utah@lemmy.world 157 25 Utah
+0.00 utopianfiat@lemmy.world 38 19 utopianfiat's community
+0.00 UXResearch@lemmy.world 34 12 User Experience Research
+0.00 va_guns@lemmy.world 29 4 va_guns
+0.00 valesports@lemmy.world 146 55 VALORANT Esports
+0.00 valorant@lemmy.world 99 4 VALORANT
+0.00 vandwellers@lemmy.world 45 3 Van Dwellers
+0.00 vanmoof@lemmy.world 33 3 VanMoof Bicycles
+0.00 vans@lemmy.world 180 52 Vans
+0.00 vaping@lemmy.world 133 5 Vaping
+0.00 vaporents@lemmy.world 656 41 Vaporents
+0.00 vaporvinyl@lemmy.world 81 9 VaporVinyl
+0.00 varces@lemmy.world 24 3 Varces, isère, France
+0.00 vaulthunters@lemmy.world 65 9 Vault Hunters
+0.00 vegancirclejerk@lemmy.world 420 27 Vegancirclejerk - the largest community of actual vegans on the internet! Ⓐ⚑Ⓥ
+0.00 vegan_gardening@lemmy.world 96 5 Vegan Gardening
+0.00 vegantheoryclub@lemmy.world 87 23 Vegan Theory Club
+0.00 vegasgoldenknights@lemmy.world 61 6 Vegas Golden Knights
+0.00 venezuela@lemmy.world 49 4 El hogar de los venezolanos en el mundo federado
+0.00 vent@lemmy.world 245 16 /c/Vent: Vent about your life here
+0.00 venturebros@lemmy.world 67 4 VentureBros
+0.00 vermont@lemmy.world 132 9 Vermont
+0.00 veterans@lemmy.world 102 9 Veterans
+0.00 vexillology@lemmy.world 1184 86 Vexillology
+0.00 vgmusic@lemmy.world 580 244 Video Game Music
+0.00 videoessays@lemmy.world 603 170 VideoEssays
+0.00 vienna@lemmy.world 192 13 Wien | Vienna, Austria 🇦🇹
+0.00 vieuxfacebook@lemmy.world 44 8 VieuxFacebook
+0.00 vikings@lemmy.world 68 7 Minnesota Vikings
+0.00 vinesauce@lemmy.world 73 4 Vinesauce
+0.00 vintage_apple@lemmy.world 344 12 Vintage Apple
+0.00 vintage@lemmy.world 308 36 Vintage
+0.00 vintage_recipes@lemmy.world 444 20 Vintage Recipes - Archiving nostalgic recipes from cookbooks, handwritten notes, advertisements, etc
+0.00 vintagewatches@lemmy.world 133 7 Vintage Watches
+0.00 virginiatech@lemmy.world 41 4 Virginia Tech
+0.00 virtualreality@lemmy.world 836 35 Virtual Reality
+0.00 vital_news@lemmy.world 261 25 Vital News
+0.00 vizsla@lemmy.world 40 7 vizsla
+0.00 vocabtracker@lemmy.world 34 4 VocabTracker
+0.00 vocaloid@lemmy.world 85 13 ｖｏｃａｌｏｉｄ
+0.00 voidbunnies@lemmy.world 57 6 Void Bunnies.world
+0.00 vorondesign@lemmy.world 138 6 VoronDesign
+0.00 vpn@lemmy.world 735 12 VPN
+0.00 vrchat@lemmy.world 98 4 VRChat
+0.00 vtubers@lemmy.world 66 9 vTubers
+0.00 vultures@lemmy.world 48 12 Vultures
+0.00 vuvuzelaiphone@lemmy.world 51 8 VuvuzelaIphone
+0.00 vvc@lemmy.world 41 4 Versatile Video Codec
+0.00 vwevs@lemmy.world 62 5 VW EVs - VW EV Owners
+0.00 wakingup@lemmy.world 28 3 Sam Harris's Waking Up
+0.00 wallpapers@lemmy.world 430 55 Wallpapers
+0.00 wallstreetbets@chat.maiion.com 110 92 c/WallStreetBets
+0.00 wallstreetbets@lemmy.world 760 10 Wallstreet Bets
+0.00 walmart@lemmy.world 54 6 The Wonderful Wally World
+0.00 wanderhome@lemmy.world 39 5 Wanderhome
+0.00 wareagle@lemmy.world 48 30 Home of the Auburn Tigers in the fediverse!
+0.00 warhammer30k@lemmy.world 78 6 Warhammer30k
+0.00 warhammer_40k@lemmy.world 50 3 Warhammer 40K
+0.00 warhammer40k@lemmy.world 2724 220 Warhammer 40k
+0.00 warhammer@lemmy.world 145 6 Warhammer
+0.00 warlizardgamingforum@lemmy.world 31 4 Warlizard Gaming Forum
+0.00 warplaneporn@lemmy.world 204 30 Warplane Porn
+0.00 washingtondc@lemmy.world 209 15 District of Columbia
+0.00 washington@lemmy.world 125 4 Washington
+0.00 washingtonwizards@lemmy.world 80 22 Washington Wizards
+0.00 watchescirclejerk@lemmy.world 134 6 Watches Circlejerk
+0.00 watchos@lemmy.world 106 4 watchOS
+0.00 watchrepair@lemmy.world 46 4 Watch Repair
+0.00 watercooling@lemmy.world 59 3 Watercooling
+0.00 wave@lemmy.world 42 7 WAVE
+0.00 wearethemusicmakers@lemmy.world 109 3 We Are The Music Makers
+0.00 weathergifs@lemmy.world 391 26 Weather Gifs
+0.00 weather@lemmy.world 247 16 Weather
+0.00 webflow@lemmy.world 41 6 Webflow
+0.00 weekendgunnit@lemmy.world 81 3 Weekend Gunnit
+0.00 ween@lemmy.world 81 10 ween
+0.00 wefwef@lemmy.world 4215 359 wefwef
+0.00 weirdtoilets@lemmy.world 48 6 Weird Toilets
+0.00 welding@lemmy.world 78 5 Welding
+0.00 we_lds@lemmy.world 50 3 Latter Day Saint Christianity
+0.00 wendigoon@lemmy.world 85 5 Wendigoon
+0.00 wetlanderhumor@lemmy.world 85 11 Wetlander Humor
+0.00 wfpb@lemmy.world 173 10 Whole Food Plant Based
+0.00 wh40k_darktide@lemmy.world 61 6 Warhammer 40,000: Darktide
+0.00 whales@lemmy.world 48 6 Whales
+0.00 whatcouldgowrong@lemmy.world 1056 5 What could go wrong?
+0.00 what_is_this_car@lemmy.world 121 4 What is this Car?
+0.00 what_is_this_snake@lemmy.world 91 3 What is this Snake?
+0.00 whatsthisbird@lemmy.world 128 4 What is this bird?
+0.00 wheeloftime@lemmy.world 158 8 Wheel of Time
+0.00 whenthe@lemmy.world 449 29 whenthe
+0.00 wheremyhomieat@lemmy.world 25 6 Where my Homie at
+0.00 whowouldwin@lemmy.world 70 3 Who would win? Battle boarding
+0.00 whywomenlivelonger@lemmy.world 254 3 Why Women Live Longer
+0.00 wicca@lemmy.world 104 6 Wicca
+0.00 wikipedia@lemmy.world 301 16 Wikipedia
+0.00 wilbursoot@lemmy.world 45 4 Wilbursoot
+0.00 wildflowers@lemmy.world 230 33 Wildflowers
+0.00 willem_ii@lemmy.world 34 31 Willem II
+0.00 windows11@lemmy.world 314 11 Windows 11
+0.00 windows@chat.maiion.com 71 7 c/Windows
+0.00 windows_insiders@lemmy.world 90 16 Windows Insiders
+0.00 windows@lemmy.world 94 6 Microsoft Windows
+0.00 wine@lemmy.world 195 7 Wine 🍷 | Wine Enthusiasts and Winemaking
+0.00 winelinux@lemmy.world 211 5 Wine
+0.00 wisconsin@lemmy.world 64 4 Wisconsin
+0.00 withoutthepunchline@lemmy.world 105 23 Without The Punchline
+0.00 wlw_memes@lemmy.world 211 19 WLW Memes
+0.00 wnba@lemmy.world 55 15 WNBA
+0.00 women@lemmy.world 530 28 Women
+0.00 womenwithautism@lemmy.world 316 8 Women with Autism
+0.00 wordington@lemmy.world 60 3 Wordington
+0.00 wordle@lemmy.world 99 43 wordle
+0.00 wordnerds@lemmy.world 48 9 WordNerds
+0.00 wordpress@lemmy.world 259 20 WordPress
+0.00 workersandresources@lemmy.world 101 14 Workers & Resources: Soviet Republic
+0.00 workingclasscalendar@lemmy.world 263 123 Working Class Calendar
+0.00 worldcup@lemmy.world 114 37 World Cup
+0.00 world_of_gothic@lemmy.world 67 3 Gothic
+0.00 worldoftanksconsole@lemmy.world 27 17 World of Tanks console
+0.00 worldpolitics@lemmy.world 1163 212 worldpolitics: It's shitposting all the way down!
+0.00 wormsgame@lemmy.world 28 4 Worms (Team17)
+0.00 wotaku@lemmy.fmhy.net 80 5 Wotaku: Anime and Manga Piracy
+0.00 wouldyourather@lemmy.world 423 8 Would You Rather
+0.00 wownoob@lemmy.world 91 3 WoW Noob
+0.00 wrestling@lemmy.world 151 41 Pro Wrestling
+0.00 writestreakjp@lemmy.world 71 64 WriteStreakJapanese
+0.00 writingclub@lemmy.world 22 5 Writing Club
+0.00 writing@lemmy.world 199 11 writing
+0.00 writingprompts@lemmy.world 296 9 Writing Prompts
+0.00 wtf@lemmy.world 3127 22 WTF
+0.00 wyoming@lemmy.world 51 8 Wyoming
+0.00 wyze@lemmy.world 66 5 Wyze
+0.00 xbiking@lemmy.world 356 34 xbiking
+0.00 xbox@lemmy.world 3858 367 Xbox
+0.00 xcom@lemmy.world 258 40 XCOM
+0.00 xkcd@lemmy.amyjnobody.com 67 14 xkcd (RSS)
+0.00 xlights@lemmy.world 30 3 xlights
+0.00 xltronic@lemmy.world 27 3 xltronic | for enjoyers of excellent electronic music
+0.00 xmen@lemmy.world 67 10 x-men
+0.00 yachts@lemmy.world 30 3 Yachts
+0.00 yamaha_fz09@lemmy.world 11 6 Yamaha MT-09
+0.00 yes@lemmy.world 58 11 yes
+0.00 yeti@lemmy.world 49 4 Yeti
+0.00 yoga@lemmy.world 115 9 Yoga
+0.00 your_pretty_face@lemmy.world 49 8 Your Pretty Face is Going to Hell
+0.00 youtube@lemmy.world 63 3 youtube
+0.00 youtubepitch@lemmy.world 247 69 Pitch a youtuber!
+0.00 yuri@lemmy.world 456 18 Yuri
+0.00 zed@lemmy.world 34 8 Zed Text Editor
+0.00 zelensky@lemmy.world 56 44 Zelensky
+0.00 zenbuddhism@lemmy.world 75 3 zenbuddhism
+0.00 zfs@lemmy.world 187 3 Everything ZFS
+0.00 ziewngyr@lemmy.world 49 4 ziewngyr
+0.00 zombiesurvival@lemmy.world 26 3 Zombie Survival and Preparedness Shelter
+0.00 zurich@lemmy.world 87 14 Zurich
