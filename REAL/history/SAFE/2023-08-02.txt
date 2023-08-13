@@ -40,7 +40,7 @@
 0.07 2westerneurope4u@lemmy.ml 332 11 2westerneurope4u
 0.00 30rock@dubvee.org 147 37 30 Rock
 0.00 360hacks@lemmy.zip 74 3 360Hacks - Xbox 360 Modding Community
-0.00 3d6@ttrpg.network 463 14 3d6
+0.01 3d6@ttrpg.network 464 14 3d6
 0.00 3ddruck@feddit.de 342 13 3D Druck
 0.01 3dmodeling@lemmy.graphics 71 4 3D Modeling
 0.00 3dp@eslemmy.es 28 12 Modelos y Proyectos Impresos en 3D
@@ -285,6 +285,7 @@
 0.00 americangirl@sh.itjust.works 41 3 American Girl Dolls
 0.05 amiga@sopuli.xyz 505 54 Amiga
 0.28 amigurumi@lemmy.world 132 18 Amigurumi
+0.00 aminals@lemmy.best 162 13 Aminals
 0.00 amitheasshole@discuss.tchncs.de 86 4 Am I the Asshole?
 0.00 amogus@infosec.pub 56 6 Amogus ඞඞඞ
 0.00 amoledbackgrounds@lemmy.ml 171 25 Amoled Backgrounds
@@ -876,7 +877,7 @@
 0.00 battlejackets@lemmy.ca 59 3 Battle Jackets
 0.02 battlemaps@lemmy.world 871 84 Battle Maps - DND/TTRPG Battlemaps
 0.00 battlemaps@sh.itjust.works 424 28 battlemaps
-0.00 battlemaps@ttrpg.network 445 14 Battle Maps
+0.00 battlemaps@ttrpg.network 446 14 Battle Maps
 0.00 battlepaintings@lemmy.world 46 4 Battlepaintings
 0.01 battlestations@lemmy.ml 819 15 A place to post and look at clear photographs of battlestation setups.
 0.00 battlestations@lemmy.world 203 3 battlestations
@@ -968,6 +969,7 @@
 0.09 bicycle_touring@lemmy.world 97 10 Bicycle Touring
 0.01 bicycling@lemmy.ml 669 32 Bicycling
 0.04 bicycling@lemmy.world 1207 48 Bicycling
+0.00 bideos@lemmy.best 70 6 Bideos
 0.00 bidoof@lemmy.world 44 5 bidoof
 0.00 bielefeld@feddit.de 78 4 Bielefeld
 0.00 big3@lemmy.world 4 3 big3
@@ -1344,7 +1346,7 @@
 0.00 californiadreams@thelemmy.club 66 9 California Dreams
 0.00 california@lemmy.ml 77 21 california
 0.01 california@lemmy.world 976 126 California
-0.00 callofcthulhu@ttrpg.network 269 5 Call of Cthulhu
+0.01 callofcthulhu@ttrpg.network 270 5 Call of Cthulhu
 0.01 callofduty@lemmy.world 75 9 Call of Duty
 1.23 calvinandhobbes@lemmy.world 2971 220 Calvin and Hobbes
 0.02 calvinandhobbes@sh.itjust.works 601 17 Calvin and Hobbes
@@ -2171,7 +2173,7 @@
 0.00 delorean@lemmy.world 13 9 DeLorean
 0.00 deltaairlines@lemmy.world 42 7 Delta Air Lines
 0.01 delta_chat@lemmy.zip 59 3 Delta Chat
-0.00 deltagreen@ttrpg.network 127 7 Delta Green
+0.03 deltagreen@ttrpg.network 129 7 Delta Green
 0.00 delta@lemmy.avata.social 85 14 Delta
 0.00 deltarune@sopuli.xyz 58 27 Deltarune
 0.00 dementia@exploding-heads.com 18 3 Dementia
@@ -2340,7 +2342,7 @@
 0.02 dndmemes@lemmy.sdf.org 366 15 DND Memes
 0.96 dnd_memes@lemmy.world 841 34 Dungeons and Dragons - Memes and Comics
 0.03 dndmemes@sh.itjust.works 3431 118 DnD Memes
-0.02 dndnext@ttrpg.network 1803 42 D&D Next - 5e Discussion
+0.09 dndnext@ttrpg.network 1810 43 D&D Next - 5e Discussion
 0.00 dociekliwosc@szmer.info 94 45 Fact-checking
 0.08 docker@lemmy.world 304 13 Docker
 0.08 docker@programming.dev 571 11 Docker
@@ -2698,7 +2700,7 @@
 0.35 ergomechkeyboards@lemmy.world 3899 268 ErgoMechKeyboards
 0.03 erinmoriarty@lemmynsfw.com 123 11 Erin Moriarty
 0.00 erp@lemmy.world 31 17 Communauté ERP (logiciels de gestion)
-0.02 errezeta_begetalak@lemmy.eus 51 11 Errezeta Begetalak
+0.00 errezeta_begetalak@lemmy.eus 50 11 Errezeta Begetalak
 0.03 errezeta_orokorrak@lemmy.eus 28 4 Errezeta orokorrak
 0.00 esa@feddit.nl 204 22 European Space Agency
 0.00 escapefromtarkov@lemmy.world 138 12 EscapeFromTarkov
@@ -2746,7 +2748,7 @@
 0.00 europrivacy@lemmy.ml 100 48 Europe Privacy
 0.00 eurovision@lemmygrad.ml 40 7 Eurovision
 0.00 eurovision@lemmy.world 140 23 Eurovision Song Contest
-0.00 euskara@lemmy.eus 43 14 Euskara
+0.02 euskara@lemmy.eus 44 14 Euskara
 0.04 evaelfie@lemmynsfw.com 224 13 Eva Elfie
 0.00 evangelion@discuss.tchncs.de 90 3 Neon Genesis Evangelion
 0.00 evangelion@lemmy.world 155 19 Evangelion
@@ -3643,7 +3645,7 @@
 0.00 guns@midwest.social 102 9 Guns
 0.00 guns@sh.itjust.works 162 5 Guns
 0.00 gunz@lemmy.ml 45 5 Gunz The Duel
-0.00 gurps@ttrpg.network 143 4 GURPS
+0.00 gurps@ttrpg.network 142 4 GURPS
 0.00 gurps_unofficial@lemmy.world 65 5 Unofficial GURPS Community
 0.00 gutenachrichten@feddit.de 130 4 Gute Nachrichten
 0.00 gwen@lemmy.world 37 12 Gwen from LoL
@@ -4011,6 +4013,8 @@
 0.00 imperialist_socdems@lemmygrad.ml 65 12 Imperialist Socdems
 0.00 imperor@lemmy.world 46 11 The Imperium
 0.00 impidgin@lemmy.ml 105 10 Pidgin, the universal chat client
+0.00 importantimages@lemmy.best 465 21 Important Images
+0.00 importantvideos@lemmy.best 169 26 Important Videos
 0.06 imsorryjon@lemmy.world 133 12 I'm sorry, Jon
 0.00 in100words@lemmy.world 77 9 Answer in Exactly 100 words
 0.00 inclusiveor@lemmy.blahaj.zone 104 4 Inclusive Or
@@ -4631,8 +4635,8 @@
 0.00 lemmydev@lemm.ee 506 36 Lemmy App Development
 0.03 lemmy_dev@programming.dev 234 23 Lemmy Bots and Tools
 0.04 lemmydrama@lemmy.world 791 11 Drama in the Fediverse
-0.00 lemmyeus_galdetu@lemmy.eus 35 6 Lemmy.eus galdetu
-0.02 lemmyeus_laguntza@lemmy.eus 46 9 Lemmy.eus laguntza
+0.02 lemmyeus_galdetu@lemmy.eus 36 6 Lemmy.eus galdetu
+0.08 lemmyeus_laguntza@lemmy.eus 47 9 Lemmy.eus laguntza
 0.00 lemmyfederation@lemmy.ml 135 23 Lemmy Federation
 0.00 lemmyfilm@lemmy.film 143 20 Lemmy.film Meta
 0.00 lemmyfootballvidtest@lemmy.world 42 34 Lemmy_Football_Vid_Test
@@ -6551,7 +6555,7 @@
 0.00 playstationplus@lemmy.world 233 10 PlayStation Plus
 0.00 playstationtrophies@lemmy.world 71 6 Trophies
 0.01 playstoredeals@lemmy.ca 291 141 Play Store Deals
-0.02 plaza@lemmy.eus 42 19 Plaza
+0.09 plaza@lemmy.eus 43 17 Plaza
 0.00 pleroma@lemmy.ml 94 8 Pleroma
 0.00 plex@lemmy.ca 1822 19 Plex
 0.07 plex@lemmy.ml 2485 71 Plex
@@ -7243,19 +7247,19 @@
 0.00 rpclipsgta@lemmy.world 63 12 RP Clips GTA
 0.00 rpdr@lemmy.world 221 14 RuPaul's Drag Race
 0.00 rpg_brasil@lemmy.world 98 11 RPG Brasil
-0.01 rpgcreation@ttrpg.network 360 13 RPGCreation
+0.02 rpgcreation@ttrpg.network 361 13 RPGCreation
 0.06 rpgdesign@lemm.ee 139 9 Roleplaying Games Design
 0.00 rpg@feddit.de 165 10 RPG
-0.00 rpggreentext@ttrpg.network 720 14 RPGgreentext
+0.06 rpggreentext@ttrpg.network 725 14 RPGgreentext
 0.00 rpg@lemmy.ca 620 11 Role Playing Games
 0.15 rpg@lemmy.eco.br 166 19 RPG
 0.00 rpg@lemmy.ml 3306 180 RPG
 0.02 rpg@lemmy.world 162 3 RPG
 0.00 rpg@lm.korako.me 59 3 TRPG
 0.00 rpgmaker@lemmy.zip 10 5 RPG Maker
-0.01 rpgmemes@ttrpg.network 4839 233 RPGMemes
+0.07 rpgmemes@ttrpg.network 4849 235 RPGMemes
 0.05 rpg_tools@lemmy.world 323 112 Tools for tabletop role-playing games.
-0.01 rpg@ttrpg.network 1905 68 rpg
+0.05 rpg@ttrpg.network 1910 69 rpg
 0.02 r_programming@programming.dev 162 9 R Programming
 0.00 rse@code4lib.net 48 8 Research Software Engineering
 0.01 rslashmonero@monero.town 74 54 r/Monero mirror
@@ -7637,6 +7641,7 @@
 0.00 skeptic@lemmy.world 771 30 Skeptic
 0.00 skeptic@sh.itjust.works 138 19 Skeptic
 0.00 skeptische_eltern@feddit.de 151 12 Skeptische Eltern
+0.00 sketchy@lemmy.best 139 16 Sketch Comedy
 0.00 skiing@lemmy.world 139 10 Skiing
 0.18 skincareaddiction@sh.itjust.works 455 18 SkincareAddiction
 0.00 skookum@discuss.tchncs.de 218 15 Skookum
@@ -7666,6 +7671,7 @@
 1.06 slowcore@lemmy.studio 19 6 Slowcore
 0.00 slushwave@normalcity.life 53 3 Slushwave
 0.00 slvt@lemmy.blahaj.zone 60 3 Sewerslvt
+0.05 sl_zalantzak@lemmy.eus 81 80 Software Libre Zalantzak
 0.00 smallweb@lemmy.ml 88 7 For the small web/weird web
 0.00 smarthome@feddit.de 183 12 Smart-Home
 0.00 smashbros@lemmy.world 584 21 Super Smash Bros
@@ -8305,7 +8311,7 @@
 0.00 teenagers@lemmy.world 77 8 Teenagers
 0.00 teeth@lemmy.world 43 4 Teeth
 1.22 tefn@literature.cafe 47 3 Translated Eastern Fantasy Novels
-0.02 tek_desazkundea@lemmy.eus 48 9 Desazkunde teknologikoa
+0.08 tek_desazkundea@lemmy.eus 49 9 Desazkunde teknologikoa
 0.00 tekken@lemmy.world 58 8 TEKKEN
 0.00 teklore@lemmy.ml 55 8 Teklore
 0.45 teknik@feddit.nu 23 9 IT och Teknik
@@ -8706,7 +8712,7 @@
 0.00 tsukihime@iusearchlinux.fyi 59 14 sexy vampires, necoposting, and a healthy amount of bread
 0.00 ttgrpgfurs@pawb.social 87 5 TTRPG Furs
 0.00 ttrpg@lemmy.world 156 4 RPG
-0.00 ttrpglfg@ttrpg.network 233 3 LFG
+0.03 ttrpglfg@ttrpg.network 235 4 LFG
 0.00 ttrpgrecs@ttrpg.network 303 8 What Should I Play?
 0.07 ttrpgs@lemmy.blahaj.zone 1841 79 TTRPGs
 0.00 tuckedinkitties@lemmy.world 742 16 Tucked In Kitties
@@ -9521,7 +9527,7 @@
 0.00 zhong1guo2@lemmygrad.ml 892 647 中国的最新发展, A place to learn about China, Chinese and China's latest developments, (Reddit's Sino)
 0.00 zhong@lemmy.ml 36 3 chinese
 0.00 zhukovacademy@lemmygrad.ml 155 20 The Zhukov Academy for Military Theory
-0.00 zientzia_fikzioa@lemmy.eus 38 3 Zientzia-fikzioa
+0.02 zientzia_fikzioa@lemmy.eus 39 3 Zientzia-fikzioa
 0.00 ziewngyr@lemmy.world 49 4 ziewngyr
 0.01 zillowgonewild@midwest.social 774 13 zillowgonewild
 0.00 zimmerpflanzen@feddit.de 128 9 Zimmerpflanzen
