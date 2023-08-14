@@ -1,6 +1,10 @@
 # lemmy-trending-communities-bot
 BASH scripts for posting trending Communities on Lemmy
 
+Results are posted at    
+https://feddit.nl/c/trendingcommunities   
+https://lemmynsfw.com/c/trendingcommunities (log in with an account that shows NSFW posts to view)
+
 ## usage
 `./get_latest_jsons.sh`
 will get new JSON files for Lemmy if they're available
