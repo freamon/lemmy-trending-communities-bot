@@ -136,10 +136,10 @@ do
             then
                 echo "${_nsfw} ${_sus} ${_community} ${subs_now} ${subs_before} ${_posts} ${_title}" >> condensed.txt
             fi
-            pc=${community}; subs_now=${subs}; _posts=${posts}                                      # top of list
+            _nsfw=${nsfw}; _sus=${sus}; pc=${community}; subs_now=${subs}; _posts=${posts}; _title=${title}   # top of list   
        fi
     fi
-    _nsfw=${nsfw}; _sus=${sus}; _community=${community}; subs_before=${subs}; _title=${title}       # bottom of list
+    _community=${community}; subs_before=${subs}      # bottom of list
 done < sorted.txt
 if [ "${MODE}" == "REAL" ]; then rm sorted.txt; fi
 
