@@ -50,6 +50,7 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 if [ ! -d ${SCRIPT_DIR}/${MODE} ]
 then
     echo "Error: ${SCRIPT_DIR}/${MODE} doesn't exist"
+    exit
 else
     cd ${SCRIPT_DIR}/${MODE}
 fi
