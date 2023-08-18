@@ -6,14 +6,14 @@ set +H
 # called with tcbot.sh MODE JSON DAYS [LOOP]
 # MODE = TEST or REAL, to just view results or to upload to Lemmy
 # JSON = json file downloaded from data.lemmyverse.net
-# DAYS = time period, (e.g. 0=today, 5=5 days ago, -1=tomorrow)
+# DAYS = optional, time period, (e.g. 0=today, 5=5 days ago, -1=tomorrow)
 # LOOP = Optional, to indicate this script was called from fetch_jsons.sh script
 
 # Both TEST and REAL use data from the REAL directory
 # But if you want to use REAL to upload to Lemmy, you'll need to update the files in
 # REAL/community/ and REAL/logins/
 
-if [ $# -lt 3 ]
+if [ $# -lt 2 ]
 then
     echo "Usage: tcbot.sh MODE JSON DAYS [LOOP]"
     exit
@@ -21,7 +21,13 @@ fi
 
 MODE=${1}
 JSON=${2}
-DAYS=${3}
+
+if [ $# -eq 2 ]
+then
+    DAYS=0
+else
+    DAYS=${3}
+fi
 
 # Uncomment to temporarily disable calls from fetch_jsons.sh script
 # if [ "${4}" == "LOOP" ]; then exit; fi
