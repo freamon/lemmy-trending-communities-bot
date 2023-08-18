@@ -193,9 +193,6 @@ do
     done < ${VIEW}_condensed.txt
     if [ "${MODE}" == "REAL" ]; then rm ${VIEW}_condensed.txt; fi
 
-    PERIOD=$(date -d "${DAYS} days ago" +"%Y-%m-%d")
-    mv ${VIEW}_growth.txt ${SCRIPT_DIR}/REAL/history/${VIEW}/${PERIOD}.txt
-
     cd ${SCRIPT_DIR}/REAL/history/${VIEW}
 
     # data[0] is usually today, data[6] is usually 6 days ago
@@ -205,6 +202,8 @@ do
         data[${i}]="$(date -d "${j} days ago" +"%Y-%m-%d").txt"
         j=$(( j+1 ))
     done
+
+    mv ${VIEW}_growth.txt ${SCRIPT_DIR}/REAL/history/${VIEW}/${data[0]}
 
     if [ "${MODE}" == "TEST" ]
 	then 
@@ -256,29 +255,20 @@ do
     
     sort -rn -o /tmp/results_${VIEW}.txt /tmp/results_${VIEW}.txt
 
-    # (this should be re-written, to not duplicate code)
     if [ "${MODE}" == "TEST" ]
     then
         echo "New Entries"
-        while read growth community rest_of_line
-        do 
-            grep --silent "^${community}$" ${SCRIPT_DIR}/REAL/mentions.txt
-            if [ $? -ne 0 ]
-            then 
-                echo "${growth} ${community} ${rest_of_line}"
-            fi 
-        done < /tmp/results_${VIEW}.txt
-        echo "Previous Entries"
-        while read growth community rest_of_line
-        do 
-            grep --silent "^${community}$" ${SCRIPT_DIR}/REAL/mentions.txt
-            if [ $? -eq 0 ]
-            then 
-                echo "${growth} ${community} ${rest_of_line}"
-            fi    
-        done < /tmp/results_${VIEW}.txt
+        for n in {2,1}
+        do
+            comm -${n} -$(( n+1 )) <(awk '{print $2}' /tmp/results_${VIEW}.txt | sort) <(sort ${SCRIPT_DIR}/REAL/mentions.txt) |
+            while read comm
+            do
+                grep $comm /tmp/results_${VIEW}.txt
+            done | sort -rn
+            if [ ${n} -eq 2 ]; then echo "Previous Entries"; fi
+        done 
         
-        continue
+		continue
     fi
 
     # Only at this point if MODE is REAL
