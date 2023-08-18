@@ -178,6 +178,7 @@ if [ "${MODE}" == "REAL" ]; then rm condensed.txt; fi
 rm -f *_growth.txt
 for VIEW in {"NSFW","SAFE"}
 do
+    echo "Calculating growth for ${VIEW} Communities ..."
     echo -n "" > ${VIEW}_growth.txt
     while read community subs_now subs_before posts title
     do
@@ -204,9 +205,9 @@ do
     mv ${VIEW}_growth.txt ${SCRIPT_DIR}/REAL/history/${VIEW}/${data[0]}
 
     if [ "${MODE}" == "TEST" ]
-	then 
-		echo "Calculating growth for ${VIEW} communities across days ${data[0]} ${data[1]} ${data[2]} ${data[3]} ${data[4]} ${data[5]} ${data[6]}"
-	fi
+    then 
+        echo "Using dates ${data[0]:: -4} ${data[1]:: -4} ${data[2]:: -4} ${data[3]:: -4} ${data[4]:: -4} ${data[5]:: -4} ${data[6]:: -4}"
+    fi
    
     cd ${SCRIPT_DIR}/REAL/history/${VIEW}
     echo -n '' > /tmp/results_${VIEW}.txt
@@ -266,8 +267,8 @@ do
             done | sort -rn
             if [ ${n} -eq 2 ]; then echo "Previous Entries"; fi
         done 
-        
-		continue
+
+        continue
     fi
 
     # Only at this point if MODE is REAL
