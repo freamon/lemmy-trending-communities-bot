@@ -193,8 +193,6 @@ do
     done < ${VIEW}_condensed.txt
     if [ "${MODE}" == "REAL" ]; then rm ${VIEW}_condensed.txt; fi
 
-    cd ${SCRIPT_DIR}/REAL/history/${VIEW}
-
     # data[0] is usually today, data[6] is usually 6 days ago
     j=${DAYS}
     for i in {0..6}
@@ -209,7 +207,8 @@ do
 	then 
 		echo "Calculating growth for ${VIEW} communities across days ${data[0]} ${data[1]} ${data[2]} ${data[3]} ${data[4]} ${data[5]} ${data[6]}"
 	fi
-    
+   
+    cd ${SCRIPT_DIR}/REAL/history/${VIEW}
     echo -n '' > /tmp/results_${VIEW}.txt
     display=0
     sort -rn ${data[0]} | while read growth community subs posts title
