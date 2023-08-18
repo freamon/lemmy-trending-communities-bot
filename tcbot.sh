@@ -242,14 +242,16 @@ do
     # Pros: If any Communities happen to get missed by the crawler (currently, everything from lemmy.world), they don't disappear from history
     # Cons: Deleted Communities will stay forever
 
-    # Commented out for now: causing problems with duplicating lines
-    #diff <(awk '{print $2}' ${data[1]} | sort) <(awk '{print $2}' ${data[0]} | sort) | 
-    #grep '^<' | sed 's/< //' | 
-    #while read comm
-    #do 
-    #    grep "\s${comm}\s" ${data[1]} | awk '{$1="0.00"; print}' >> ${data[0]}
-    #done
-    
+    if [ ${DAYS} -eq 0 ]
+    then
+        diff <(awk '{print $2}' ${data[1]} | sort) <(awk '{print $2}' ${data[0]} | sort) |
+        grep '^<' | sed 's/< //' |
+        while read comm
+        do
+            grep "\s${comm}\s" ${data[1]} | awk '{$1="0.00"; print}' >> ${data[0]}
+        done
+    fi
+
     cd ${SCRIPT_DIR}/${MODE}
     
     sort -rn -o /tmp/results_${VIEW}.txt /tmp/results_${VIEW}.txt
