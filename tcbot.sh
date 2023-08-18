@@ -197,30 +197,25 @@ do
     mv ${VIEW}_growth.txt ${SCRIPT_DIR}/REAL/history/${VIEW}/${PERIOD}.txt
 
     cd ${SCRIPT_DIR}/REAL/history/${VIEW}
-    
-    # data0 is usually today, data6 is usually 6 days ago (this should probably be stored as an array)
-    i=$(( ${DAYS} + 0 ))
-    data0="$(date -d "$i days ago" +"%Y-%m-%d").txt"
-    i=$(( ${DAYS} + 1 ))
-    data1="$(date -d "$i days ago" +"%Y-%m-%d").txt"
-    i=$(( ${DAYS} + 2 ))
-    data2="$(date -d "$i days ago" +"%Y-%m-%d").txt"
-    i=$(( ${DAYS} + 3 ))
-    data3="$(date -d "$i days ago" +"%Y-%m-%d").txt"
-    i=$(( ${DAYS} + 4 ))
-    data4="$(date -d "$i days ago" +"%Y-%m-%d").txt"
-    i=$(( ${DAYS} + 5 ))
-    data5="$(date -d "$i days ago" +"%Y-%m-%d").txt"
-    i=$(( ${DAYS} + 6 ))
-    data6="$(date -d "$i days ago" +"%Y-%m-%d").txt"
 
-    if [ "${MODE}" == "TEST" ]; then echo "$data0 $data1 $data2 $data3 $data4 $data5 $data6"; fi
+    # data[0] is usually today, data[6] is usually 6 days ago
+    j=${DAYS}
+    for i in {0..6}
+    do
+        data[${i}]="$(date -d "${j} days ago" +"%Y-%m-%d").txt"
+        j=$(( j+1 ))
+    done
+
+    if [ "${MODE}" == "TEST" ]
+	then 
+		echo "Calculating growth for ${VIEW} communities across days ${data[0]} ${data[1]} ${data[2]} ${data[3]} ${data[4]} ${data[5]} ${data[6]}"
+	fi
     
     echo -n '' > /tmp/results_${VIEW}.txt
     display=0
-    sort -rn ${data0} | while read growth community subs posts title
+    sort -rn ${data[0]} | while read growth community subs posts title
     do
-        grep --no-messages "\s${community}\s" $data0 $data1 $data2 $data3 $data4 $data5 $data6 | sed 's/^.*\.txt://' > /tmp/history.txt
+        grep --no-messages "\s${community}\s" ${data[0]} ${data[1]} ${data[2]} ${data[3]} ${data[4]} ${data[5]} ${data[6]} | sed 's/^.*\.txt://' > /tmp/history.txt
         
         depth=$(wc -l /tmp/history.txt) 
         if [ ${depth:0:1} -lt 7 ]; then continue; fi
@@ -248,11 +243,11 @@ do
     # Cons: Deleted Communities will stay forever
 
     # Commented out for now: causing problems with duplicating lines
-    #diff <(awk '{print $2}' ${data1} | sort) <(awk '{print $2}' ${data0} | sort) | 
+    #diff <(awk '{print $2}' ${data[1]} | sort) <(awk '{print $2}' ${data[0]} | sort) | 
     #grep '^<' | sed 's/< //' | 
     #while read comm
     #do 
-    #    grep "\s${comm}\s" ${data1} | awk '{$1="0.00"; print}' >> ${data0}
+    #    grep "\s${comm}\s" ${data[1]} | awk '{$1="0.00"; print}' >> ${data[0]}
     #done
     
     cd ${SCRIPT_DIR}/${MODE}
