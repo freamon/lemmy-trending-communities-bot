@@ -278,8 +278,8 @@ do
     while read growth community subs posts new_posts title
     do
         baseurl=" [\`${community#*@}\`]"
-        if [ "${baseurl}" == " [\`lemmy.world\`]" ]; then baseurl=""; fi
-        if [ "${baseurl}" == " [\`lemmynsfw.com\`]" ]; then baseurl=""; fi
+        if [[ "${VIEW}" == "SAFE" && "${baseurl}" == " [\`lemmy.world\`]" ]]; then baseurl=""; fi
+        if [[ "${VIEW}" == "NSFW" && "${baseurl}" == " [\`lemmynsfw.com\`]" ]]; then baseurl=""; fi
         grep --silent "^${community}$" mentions.txt		
         if [ $? -ne 0 ]
         then
