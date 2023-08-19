@@ -71,6 +71,14 @@ fi
 # Otherwise, it'll just add the data to a text file for this period
 read LASTRUN < <(head -n 1 last_run_timestamp.txt)
 
+# Don't add same data twice
+if [[ ${LASTRUN} -eq ${JSON} && -f ${LASTRUN}.txt ]]
+then
+    echo "Error: ${JSON}.txt already contains everything from ${JSON}.json"
+    echo "Update ${MODE}/last_run_timestamp.txt to work with earlier data"
+    exit
+fi
+
 # The only fields from the JSON file that's required
 fields=$(cat << EOF
 ___nsfw: .nsfw, 
