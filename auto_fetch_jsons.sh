@@ -2,6 +2,16 @@
 
 set +H
 
+for m in {"curl","jq"}
+do
+    command -v ${m} &> /dev/null
+    if [ $? -ne 0 ]
+    then
+        echo "Error: Missing '${m}'. Install it from your distro's repo"
+        exit
+    fi
+done
+
 MODE=${1}
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )

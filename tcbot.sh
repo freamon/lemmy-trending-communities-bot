@@ -53,21 +53,14 @@ then
 fi
 
 #Exit if missing required external applications
-no_curl=""; no_jq=""; no_bc=""
-if [ "${MODE}" == "REAL" ]
-then
-    command -v curl &> /dev/null
-    if [ $? -ne 0 ]; then no_curl="curl"; fi
-fi
-command -v jq &> /dev/null
-if [ $? -ne 0 ]; then no_jq="jq"; fi
-command -v bc &> /dev/null
-if [ $? -ne 0 ]; then no_bc="bc"; fi
-for m in {${no_curl},${no_jq},${no_bc}}
+for m in {"curl","jq","bc"}
 do
-    if [ "${m}" != "" ]
+    if [[ "${m}" == "curl" && "${MODE}" != "REAL" ]]; then continue; fi
+	command -v ${m} &> /dev/null
+    if [ $? -ne 0 ]
     then
         echo "Error: Missing '${m}'. Install it from your distro's repo"
+        exit
     fi
 done
 
