@@ -15,7 +15,7 @@ set +H
 
 if [ $# -lt 2 ]
 then
-    echo "Usage: tcbot.sh MODE JSON DAYS [LOOP]"
+    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP]"
     exit
 fi
 
@@ -34,23 +34,42 @@ fi
 
 if [[ "${MODE}" != "TEST" && "${MODE}" != "REAL" ]]
 then
-    echo "Usage: tcbot.sh MODE JSON DAYS [LOOP], MODE must be TEST or REAL"
+    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP], MODE must be TEST or REAL"
     exit
 fi
 
 thirteendigitstring="^[0-9]{13}$"
 if [[ ! ${JSON} =~ ${thirteendigitstring} ]]
 then
-    echo "Usage: tcbot.sh MODE JSON DAYS [LOOP], JSON must be 13 digits"
+    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP], JSON must be 13 digits"
     exit
 fi
 
 digitstring="^[0-9]+$|^-[0-9]+$"
 if [[ ! ${DAYS} =~ ${digitstring} ]]
 then
-    echo "Usage: tcbot.sh MODE JSON DAYS [LOOP], DAYS must be digits"
+    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP], DAYS must be digits"
     exit
 fi
+
+#Exit if missing required external applications
+no_curl=""; no_jq=""; no_bc=""
+if [ "${MODE}" == "REAL" ]
+then
+    command -v curl &> /dev/null
+    if [ $? -ne 0 ]; then no_curl="curl"; fi
+fi
+command -v jq &> /dev/null
+if [ $? -ne 0 ]; then no_jq="jq"; fi
+command -v bc &> /dev/null
+if [ $? -ne 0 ]; then no_bc="bc"; fi
+for m in {${no_curl},${no_jq},${no_bc}}
+do
+    if [ "${m}" != "" ]
+    then
+        echo "Error: Missing '${m}'. Install it from your distro's repo"
+    fi
+done
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 if [ ! -d ${SCRIPT_DIR}/${MODE} ]
