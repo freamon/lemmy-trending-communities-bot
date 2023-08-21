@@ -7,7 +7,7 @@ https://lemmynsfw.com/c/trendingcommunities (log in with an account that shows N
 
 ## Usage  
 Relevant files:  
-REAL/jsons/1692597913896.json, provided by [LemmyVerse](lemmyverse.net) on 2023-08-21 06:05  
+REAL/jsons/1692597913896.json, provided by [LemmyVerse](https://lemmyverse.net) on 2023-08-21 06:05  
 TEST/1692511506610.txt, derived from data provided the day before, on 2023-08-20 06:05  
 TEST/lastrun.txt, with a single line, for yesterday's timestamp of 1692511506610  
 
