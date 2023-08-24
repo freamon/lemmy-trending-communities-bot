@@ -1138,3 +1138,17 @@ apple_de@feddit.de
 netsec@links.hackliberty.org
 daily_us_history@lemmygrad.ml
 antiwork@lemmy.ml
+assjob@lemmynsfw.com
+oldpeoplefacebook@reddthat.com
+ebookdeals@literature.cafe
+nonfiction@literature.cafe
+nyheder@feddit.dk
+wallpapers@sh.itjust.works
+retrogaming@lemmy.zip
+flachwitze@feddit.de
+gamedev@programming.dev
+linux_gaming@lemmy.ml
+2visegrad4you@lemmy.ml
+python@programming.dev
+askfrance@jlai.lu
+speedrun@sh.itjust.works
