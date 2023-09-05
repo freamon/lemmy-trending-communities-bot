@@ -207,7 +207,7 @@ do
         then
             weighted_growth=0.00
         else
-            percentage_growth=$(echo "(${absolute_growth}/${subs_before})*100" | bc -l)
+            percentage_growth=$(echo "(${absolute_growth}/${subs_before})*100" | bc -l | sed 's/^-//')
             weighted_growth=$(echo "scale=2; (${percentage_growth}*${absolute_growth})/100" | bc | sed 's/^\./0\./' | sed 's/^0$/0\.00/')
         fi
         echo ${weighted_growth} ${community} ${subs_now} ${posts} ${title} >> ${VIEW}_growth.txt
