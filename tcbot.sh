@@ -258,7 +258,7 @@ do
     done
 
     # Add any missing Communities from yesterday onto today's data file
-    # Pros: If any Communities happen to get missed by the crawler (currently, everything from lemmy.world), they don't disappear from history
+    # Pros: If any Communities happen to get missed by the crawler, they don't disappear from history
     # Cons: Deleted Communities will stay forever
 
     if [ ${DAYS} -eq 0 ]
