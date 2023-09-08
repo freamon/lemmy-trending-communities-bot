@@ -7,15 +7,15 @@ https://lemmynsfw.com/c/trendingcommunities (log in with an account that shows N
 
 ## Usage  
 Relevant files:  
-REAL/jsons/1694066697775.json, provided by [LemmyVerse](https://lemmyverse.net) on 2023-09-07 06:04  
-TEST/1693980330951.txt, derived from data provided the day before, on 2023-09-06 06:05  
-TEST/lastrun.txt, with a single line, for yesterday's timestamp of 1693980330951  
+REAL/jsons/1694153118375.json, provided by [LemmyVerse](https://lemmyverse.net) on 2023-09-08 06:05  
+TEST/1694066697775.txt, derived from data provided the day before, on 2023-09-07 06:04  
+TEST/lastrun.txt, with a single line, for yesterday's timestamp of 1694066697775  
 
 Run  
-`./tcbot.sh TEST 1694066697775`  
-to show subscriber growth from 2023-09-06 06:05 to 2023-09-07 06:04  
+`./tcbot.sh TEST 1694153118375`  
+to show subscriber growth from 2023-09-07 06:04 to 2023-09-08 06:05  
 
-The above command will also update the files in TEST, so 1694066697775 becomes the new starting point.  
+The above command will also update the files in TEST, so 1694153118375 becomes the new starting point.  
 New data can be retrieved by running `get_latest_jsons.sh`  
 When used as a argument to the script, growth will be shown if there's a 24 hour gap between the json and last_run_timestamp.txt  
 
