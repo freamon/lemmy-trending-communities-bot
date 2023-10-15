@@ -3,10 +3,9 @@
 set +H
 
 # tcbot.sh
-# called with tcbot.sh MODE JSON DAYS [LOOP]
+# called with tcbot.sh MODE JSON [LOOP]
 # MODE = TEST or REAL, to just view results or to upload to Lemmy
 # JSON = json file downloaded from data.lemmyverse.net
-# DAYS = optional, time period, (e.g. 0=today, 5=5 days ago, -1=tomorrow)
 # LOOP = Optional, to indicate this script was called from fetch_jsons.sh script
 
 # Both TEST and REAL use data from the REAL directory
@@ -15,40 +14,26 @@ set +H
 
 if [ $# -lt 2 ]
 then
-    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP]"
+    echo "Usage: tcbot.sh MODE JSON [LOOP]"
     exit
 fi
 
 MODE=${1}
 JSON=${2}
 
-if [ $# -eq 2 ]
-then
-    DAYS=0
-else
-    DAYS=${3}
-fi
-
 # Uncomment to temporarily disable calls from fetch_jsons.sh script
 # if [ "${4}" == "LOOP" ]; then exit; fi
 
 if [[ "${MODE}" != "TEST" && "${MODE}" != "REAL" ]]
 then
-    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP], MODE must be TEST or REAL"
+    echo "Usage: tcbot.sh MODE JSON [LOOP], MODE must be TEST or REAL"
     exit
 fi
 
 thirteendigitstring="^[0-9]{13}$"
 if [[ ! ${JSON} =~ ${thirteendigitstring} ]]
 then
-    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP], JSON must be 13 digits"
-    exit
-fi
-
-digitstring="^[0-9]+$|^-[0-9]+$"
-if [[ ! ${DAYS} =~ ${digitstring} ]]
-then
-    echo "Usage: tcbot.sh MODE JSON [DAYS] [LOOP], DAYS must be digits"
+    echo "Usage: tcbot.sh MODE JSON [LOOP], JSON must be 13 digits"
     exit
 fi
 
@@ -215,11 +200,11 @@ do
     if [ "${MODE}" == "REAL" ]; then rm ${VIEW}_condensed.txt; fi
 
     # data[0] is usually today, data[6] is usually 6 days ago
-    j=${DAYS}
+    day0=${JSON:: -3}
     for i in {0..6}
     do
-        data[${i}]="$(date -d "${j} days ago" +"%Y-%m-%d").txt"
-        j=$(( j+1 ))
+        day=$(( day0-(i*86400) ))
+        data[${i}]="$(date -d@${day} +"%Y-%m-%d").txt"
     done
 
     mv ${VIEW}_growth.txt ${SCRIPT_DIR}/REAL/history/${VIEW}/${data[0]}
@@ -261,7 +246,7 @@ do
     # Pros: If any Communities happen to get missed by the crawler, they don't disappear from history
     # Cons: Deleted Communities will stay forever
 
-    if [ ${DAYS} -eq 0 ]
+    if [ "${MODE}" == "REAL" ]
     then
         diff <(awk '{print $2}' ${data[1]} | sort) <(awk '{print $2}' ${data[0]} | sort) |
         grep '^<' | sed 's/< //' |
@@ -281,9 +266,9 @@ do
         for n in {2,1}
         do
             comm -${n} -$(( n+1 )) <(awk '{print $2}' /tmp/results_${VIEW}.txt | sort) <(sort ${SCRIPT_DIR}/REAL/mentions.txt) |
-            while read comm
+            while read community
             do
-                grep $comm /tmp/results_${VIEW}.txt
+                grep " $community " /tmp/results_${VIEW}.txt
             done | sort -rn
             if [ ${n} -eq 2 ]; then echo "Previous Entries"; fi
         done 
